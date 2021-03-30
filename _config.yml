@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lijing Wang"
   avatar           : "Lijing_profile.JPG"
-  bio              : "Stanford Data Science Scholar\\ Ph.D. candidate at Stanford University"
+  bio              : "Stanford Data Science Scholar\n Ph.D. candidate at Stanford University"
   location         : "Stanford, CA"
   employer         : 
   pubmed           : #""
