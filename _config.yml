@@ -84,7 +84,7 @@ author:
   avatar           : "Lijing_profile.JPG"
   bio              : "Stanford Data Science Scholar, Ph.D. candidate at Stanford University"
   location         : "Stanford, CA"
-  employer         :
+  employer         : 
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kWtChCQAAAAJ&hl=en"
   email            : "lijing52@stanford.edu"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  stanfordprofile  : "https://profiles.stanford.edu/lijing-wang"
 
 
 # Reading Files
