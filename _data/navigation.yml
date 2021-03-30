@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Research experience"
+  - title: "Research Experience"
     url: /research/
-  - title: "Publication and presentation"
+  - title: "Publication and Presentation"
     url: /teaching/  
-  - title: "Teaching and mentoring"
+  - title: "Teaching and Mentoring"
     url: /teaching/    
   - title: "CV"
     url: /cv/
