@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Lijing Wang"
-  avatar           : "profile.png"
-  bio              : ""
+  avatar           : "Lijing_profile.JPG"
+  bio              : #""
   location         : "Stanford, CA"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kWtChCQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
