@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Hi, here is my CV. 
 
-<embed src="Lijing_CV_Mar2021.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
+<object data="https://lijingwang.github.io/files/Lijing_CV_Mar2021.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="https://lijingwang.github.io/files/Lijing_CV_Mar2021.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://lijingwang.github.io/files/Lijing_CV_Mar2021.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
