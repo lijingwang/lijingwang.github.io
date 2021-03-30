@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lijing, a Ph.D. candidate in Department of Geological Sciences at Stanford University, focused on statistics and machine learning in geosciences. I am affliated with [Stanford Center of Earth Resource Forecasting](https://scerf.stanford.edu/) and [Stanford Data Science Scholar Program](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). 
+Hi, I'm Lijing, a Ph.D. candidate in the Department of Geological Sciences at Stanford University. I am affiliated with [Stanford Center of Earth Resource Forecasting](https://scerf.stanford.edu/) and [Stanford Data Science Scholar](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). 
 
-<!-- I use machine learning methods especially computer vision methods with large unlabeled and labeled spatial datasets on earth resource exploration to build a full   -->
+<!-- My research focuses on statistics and machine learning in geosciences. ? ? 
+I use computer vision methods with large unlabeled and labeled spatial datasets on earth resource exploration to build a full. 
+
+I am more into developing new methodology  -->
 
 
+I obtained my Bachelor of Science degree in Space Physics and Applied Mathematics from Peking University. During my bachelors, I worked on several applied statistics projects with social impacts on energy, environment, and health. These projects encouraged me to pursue the interdisciplinary field in between data science and earth sciences to facilitate the sustainable development of earth resources. In summer 2020, I did a Research Data Scientist internship in Total E&P, collaborating with Google Cloud. We focus on Artificial Intelligence solutions to optimize geophysical data interpretation with sparse labels. 
+
+I am passionate about teaching data science methods to geoscience audiences and the broader scientific community.  
