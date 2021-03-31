@@ -18,7 +18,8 @@ author_profile: true
 
 ## Mentoring 
 
-- Technical mentor, [Data Science for Social Good Summer Program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program) , 2021 
+- Technical mentor, [Data Science for Social Good Summer Program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program), 2021 
+- Mentoring students' course projects in Data Science for Geoscience
 
 ## Service
 - Student Organizing Committee, Women in Data Science @ Stanford Earth, 2019
