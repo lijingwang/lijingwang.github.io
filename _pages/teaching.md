@@ -20,7 +20,7 @@ Winter 2019
 
 ## Mentoring 
 
-### Data Science for Social Good Summer Program 2021
+### [Data Science for Social Good Summer Program]{https://datascience.stanford.edu/programs/data-science-social-good-summer-program} 2021
 
 ### Stanford Center of Earth Resource Forecasting 
 
