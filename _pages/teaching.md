@@ -11,7 +11,7 @@ author_profile: true
 
 	- Co-designer and teaching assistant of new undergrad class, Winter 2021
 
-		Designing interactive Google Colab notebooks to faciliate students learning statistics and ML   
+		Designing interactive Google Colab notebooks to facilitate students learning statistics and ML   
 		Co-developing a new textbook with Prof. Jef Caers and Dr. David Yin: Data Science for Geoscience  
 		Designing homework with real case studies (i.e. climate change, earth resource exploration, groundwater contamination)   
 		Teaching homework review sessions 
@@ -28,7 +28,7 @@ author_profile: true
 
 - [Data Science for Social Good Summer Program](https://datascience.stanford.edu/programs/data-science-social-good-summer-program) 2021
 
-	Technical mentor, design the scope of the project together with Changing Cities Research Lab team, advance the project with student fellows
+	Technical mentor, designing the scope of the project together with Changing Cities Research Lab team, advancing the project with student fellows
 
 ## Service
 - Student Organizing Committee, Women in Data Science @ Stanford Earth 2019
