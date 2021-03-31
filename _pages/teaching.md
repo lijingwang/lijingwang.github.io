@@ -1,14 +1,21 @@
 ---
 layout: archive
-title: "Teaching and Mentoring"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
-### Data Science for Geosciences
+### Teaching 
 
-### Data Science for Social Good Summer Program
-
-### Stanford Center of Earth Resource Forecasting
+> W21-GEOLSCI-6-01/W21-EARTHSYS-100A-01: DATA SCIENCE FOR GEOSCIENCE
+### Data Science for Geosciences @ Stanford University
 
 ### Data Analysis and Business Value @ Peking University
+
+
+### Mentoring 
+
+### Data Science for Social Good Summer Program 2021
+
+### Stanford Center of Earth Resource Forecasting 
+
