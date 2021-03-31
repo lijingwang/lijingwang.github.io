@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Teaching 
+
 ### Data Science for Geosciences @ Stanford University
 
 Winter 2021
