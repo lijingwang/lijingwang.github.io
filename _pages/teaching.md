@@ -9,11 +9,11 @@ author_profile: true
 
 - Data Science for Geoscience @ Stanford University
 
-  Co-designer and teaching assistant of new undergrad class, Winter 2021   
+  Co-designer and teaching assistant of the new undergrad class, Winter 2021   
 
 	- Designing interactive Google Colab notebooks to facilitate students learning statistics and ML   
-	- Co-developing a new textbook with Prof. Jef Caers and Dr. David Yin: Data Science for Geoscience  
-	- Designing homework with real case studies (i.e. climate change, earth resource exploration, groundwater contamination)   
+	- Co-developing *a new textbook: Data Science for Geoscience* with Prof. Jef Caers and Dr. David Yin
+	- Designing homework with real case studies (i.e. climate change, earth resource exploration, etc.)   
 	- Teaching homework review sessions 
 
   Teaching assistant, Winter 2019   
