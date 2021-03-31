@@ -16,3 +16,4 @@ I obtained my Bachelor of Science degree in Space Physics and Applied Mathematic
 
 I am passionate about teaching data science methods to geoscience audiences and the broader scientific community, with real earth science studies (i.e. natural hazards, climate change, earth resources) and interactive python notebooks! 
 
+Outside of research, I enjoy hiking, piano-playing, doing paper models, and playing with my two tabby cats. 
