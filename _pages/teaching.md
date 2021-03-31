@@ -5,17 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching 
-
-> W21-GEOLSCI-6-01/W21-EARTHSYS-100A-01: DATA SCIENCE FOR GEOSCIENCE
+## Teaching 
 ### Data Science for Geosciences @ Stanford University
+
+Winter 2021
+
+Co-teach and co-develop data science for geoscience class to undergraduate students. 
+
+Winter 2019
 
 ### Data Analysis and Business Value @ Peking University
 
 
-### Mentoring 
+## Mentoring 
 
 ### Data Science for Social Good Summer Program 2021
 
 ### Stanford Center of Earth Resource Forecasting 
 
+## Service
+Student Organizing Committee, Women in Data Science @ Stanford Earth 2019
