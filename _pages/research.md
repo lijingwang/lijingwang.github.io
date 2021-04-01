@@ -24,7 +24,7 @@ Semi-supervised semantic segmentation for seismic interpretation
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, 2021 (in preparation)
 
 Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas   
-Elizabeth C. Johnston, Frances V. Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall B. Burke, and Noah S. Diffenbaugh, 2021 (in submission)
+Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, 2021 (in submission)
 
 [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
 Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R. Bargar, and Kate Maher, *Environmental Engineering Science*, 2021
@@ -48,7 +48,7 @@ Joint uncertainty quantification on spatial and global hydrogeological models: a
 **Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
 
 Multi-scale signatures of climate change on landslide susceptibility: a case study for the Pacific Coast of the United States, *American Geophysical Union*, Fall Meeting 2018 (Poster)    
-Elizabeth C. Johnston, Jef Caers, **Lijing Wang**, Frances V. Davenport, Suresh Muthukrishnan, and Noah S. Diffenbaugh
+Elizabeth Johnston, Jef Caers, **Lijing Wang**, Frances Davenport, Suresh Muthukrishnan, and Noah Diffenbaugh
 
 Reconstruction and forecasting oil rates using functional data analysis and universal co-kriging, *NGI Industrial Affiliates Meeting*, Stanford University, 2017 (Poster)    
 **Lijing Wang**, Ognjen Grujic, and Jef Caers
