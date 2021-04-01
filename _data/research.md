@@ -15,22 +15,19 @@ author_profile: true
 
 
 Quantifying Uncertainty of Non-Stationary Geological Interfaces: Metropolis-Hasting Sampling of Implicit Level Sets
-
 **Lijing Wang**, Luk Peeters, Emma J. MacKie, and Jef Caers, 2021 (in preparation)
 
 A joint Bayesian approach to volume average linear inverse problem for global and spatial variables
 **Lijing Wang**, C\'{e}line Scheidt, Andrea Da Pra, Marco Pontiggia, and Jef Caers, 2021 (in preparation)
 
 Semi-supervised semantic segmentation for seismic interpretation
-**Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon
-, 2021 (in preparation)
+**Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, 2021 (in preparation)
 
 Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas
 Elizabeth C. Johnston, Frances V. Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall B. Burke1, and Noah S. Diffenbaugh, 2021 (in submission)
 
 [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)
 Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R. Bargar, and Kate Maher, *Environmental Engineering Science*, 2021
-
 
 [Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf)
 Rose Rustowicz, Robin Cheong, **Lijing Wang**, Stefano Ermon, Marshall Burke, David Lobell, *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, 2019
