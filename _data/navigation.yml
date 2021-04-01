@@ -1,9 +1,7 @@
 # main links links
 main:
-  - title: "Research Experience"
+  - title: "Research"
     url: /research/
-  - title: "Publication and Presentation"
-    url: /publication/  
   - title: "Teaching and Mentoring"
     url: /teaching/    
   - title: "CV"
