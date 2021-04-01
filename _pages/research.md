@@ -18,7 +18,7 @@ Quantifying Uncertainty of Non-Stationary Geological Interfaces: Metropolis-Hast
 **Lijing Wang**, Luk Peeters, Emma J. MacKie, and Jef Caers, 2021 (in preparation)
 
 A joint Bayesian approach to volume average linear inverse problem for global and spatial variables   
-**Lijing Wang**, C\'{e}line Scheidt, Andrea Da Pra, Marco Pontiggia, and Jef Caers, 2021 (in preparation)
+**Lijing Wang**, Céline Scheidt, Andrea Da Pra, Marco Pontiggia, and Jef Caers, 2021 (in preparation)
 
 Semi-supervised semantic segmentation for seismic interpretation  
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, 2021 (in preparation)
