@@ -24,7 +24,7 @@ Semi-supervised semantic segmentation for seismic interpretation
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, 2021 (in preparation)
 
 Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas   
-Elizabeth C. Johnston, Frances V. Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall B. Burke1, and Noah S. Diffenbaugh, 2021 (in submission)
+Elizabeth C. Johnston, Frances V. Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall B. Burke, and Noah S. Diffenbaugh, 2021 (in submission)
 
 [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
 Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R. Bargar, and Kate Maher, *Environmental Engineering Science*, 2021
@@ -35,15 +35,20 @@ Rose Rustowicz, Robin Cheong, **Lijing Wang**, Stefano Ermon, Marshall Burke, Da
 
 ## Presentations
 
-Wang, L., Vilhelmsen, T. N., Caers, J., Local decision making through understanding of multi-scale uncertainty: Application to well catchment protections in Denmark, Computational Methods in Water Resources (CMWR 2020)
+Local decision making through understanding of multi-scale uncertainty: Application to well catchment protections in Denmark, *Computational Methods in Water Resources*, CMWR 2020 (Presentation)   
+**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
 
-Wang, L., Peeters, L., Caers, J.,, Uncertainty assessment of hydrogeological structures combining geophysical survey and geological knowledge: A stochastic level set optimization framework, American Geophysical Union, oral, Fall Meeting 2020
+Uncertainty assessment of hydrogeological structures combining geophysical survey and geological knowledge: A stochastic level set optimization framework, *American Geophysical Union*, Fall Meeting 2020 (Presentation)    
+**Lijing Wang**, Luk Peeters, and Jef Caers
 
-Wang, L., Vilhelmsen, T. N., Caers, J., Direct forecasting of local hydraulic conductivity using combined geophysical and hydrological data: Application to well catchment predictions in Danish aquifer system, American Geophysical Union, Fall Meeting 2019
+Direct forecasting of local hydraulic conductivity using combined geophysical and hydrological data: application to well catchment predictions in Danish aquifer system, *American Geophysical Union*, Fall Meeting 2019 (Poster)    
+**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
 
-Wang, L., Vilhelmsen, T. N., Caers, J., Joint Uncertainty Quantification on Spatial and Global Hydrogeological Models: An Application to Danish Groundwater Management, American Geophysical Union, Fall Meeting 2018
+Joint uncertainty quantification on spatial and global hydrogeological models: an application to Danish groundwater management, *American Geophysical Union*, Fall Meeting 2018 (Poster)    
+**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
 
-Johnston, E. C., Caers, J., Wang, L., Davenport, F. V., Muthukrishnan, S., Diffenbaugh, N. S., Multi-scale signatures of climate change on landslide susceptibility: a case study for the Pacific Coast of the United States, American Geophysical Union,
-Fall Meeting 2018
+Multi-scale signatures of climate change on landslide susceptibility: a case study for the Pacific Coast of the United States, *American Geophysical Union*, Fall Meeting 2018 (Poster)    
+Elizabeth C. Johnston, Jef Caers, **Lijing Wang**, Frances V. Davenport, Suresh Muthukrishnan, and Noah S. Diffenbaugh
 
-Wang, L., Grujic, O., Caers, J.,Reconstruction and Forecasting Oil Rates Using Functional Data Analysis and Universal Co-Kriging, NGI Industrial Affiliates Meeting, oral presentation, Stanford University, 2017
+Reconstruction and forecasting oil rates using functional data analysis and universal co-kriging, *NGI Industrial Affiliates Meeting*, Stanford University, 2017 (Poster)    
+**Lijing Wang**, Ognjen Grujic, and Jef Caers
