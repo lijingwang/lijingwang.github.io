@@ -7,24 +7,24 @@ author_profile: true
 
 ## Research interests
 
+- Hierarchical Bayesian inference
 - Computer vision in geomodeling
-- Bayesian inference of spatial variables
+- Non-stationary geostatistics
 - Sustainable earth resource management
 
 ## Publication
 
-
 Quantifying Uncertainty of Non-Stationary Geological Interfaces: Metropolis-Hasting Sampling of Implicit Level Sets   
 **Lijing Wang**, Luk Peeters, Emma J. MacKie, and Jef Caers, 2021 (in preparation)
 
-A joint Bayesian approach to volume average linear inverse problem for global and spatial variables   
-**Lijing Wang**, Céline Scheidt, Andrea Da Pra, Marco Pontiggia, and Jef Caers, 2021 (in preparation)
+Hierarchical Bayesian inversion of global variablesand large-scale spatial fields
+**Lijing Wang**, Peter Kitanidis, and Jef Caers, 2021 (in preparation)
 
 Semi-supervised semantic segmentation for seismic interpretation  
-**Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, 2021 (in preparation)
+**Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, *Geophysics*, 2021 (in submission)
 
-Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas   
-Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, 2021 (in submission)
+[Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038) 
+Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, *Geophysical Research Letters*, 2021 
 
 [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
 Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R. Bargar, and Kate Maher, *Environmental Engineering Science*, 2021
