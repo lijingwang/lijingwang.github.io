@@ -24,6 +24,7 @@ Semi-supervised semantic segmentation for seismic interpretation
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, *Geophysics*, 2021 (under review)
 
 [Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038) 
+
 Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, *Geophysical Research Letters*, 2021 
 
 Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone
