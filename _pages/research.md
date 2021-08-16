@@ -17,7 +17,7 @@ author_profile: true
 Quantifying Uncertainty of Non-Stationary Geological Interfaces: Metropolis-Hasting Sampling of Implicit Level Sets   
 **Lijing Wang**, Luk Peeters, Emma J. MacKie, and Jef Caers, 2021 (in preparation)
 
-Hierarchical Bayesian inversion of global variablesand large-scale spatial fields
+Hierarchical Bayesian inversion of global variablesand large-scale spatial fields    
 **Lijing Wang**, Peter Kitanidis, and Jef Caers, 2021 (in preparation)
 
 Semi-supervised semantic segmentation for seismic interpretation  
