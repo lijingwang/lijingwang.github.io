@@ -12,13 +12,20 @@ author_profile: true
 - Non-stationary geostatistics
 - Sustainable earth resource management
 
+
+## Books
+Data Science for the Geosciences      
+**Lijing Wang**, Zhen Yin, Jef Caers, Cambridge University Press, 2022 (In preparation)
+
+
+
 ## Publications
 
-Uncertainty quantification of water exchanges due to beaver-induced inundation
+Uncertainty quantification of water exchanges due to beaver-induced inundation   
 **Lijing Wang**, Zach Perzan, Tristan Babey, Martin Briggs, Sam Pierce, Brian Rogers, John Bargar, Kate Maher, 2021 (in preparation)
 
 
-Stochastic sampling of non-stationarygeological interfaces accounting for geological realism 
+Stochastic sampling of non-stationarygeological interfaces accounting for geological realism    
 **Lijing Wang**, Luk Peeters, Emma MacKie, and Jef Caers, 2021 (in preparation)
 
 
@@ -26,11 +33,11 @@ Hierarchical Bayesian inversion of global variables and large-scale spatial fiel
 **Lijing Wang**, Peter Kitanidis, and Jef Caers, *Water Resources Research*, 2021 (under review)
 
 
-Efficacy of information in mineral exploration drilling
+Efficacy of information in mineral exploration drilling    
 Jef Caers, Celine Scheidt, Zhen Yin, **Lijing Wang**, Tapan Mukerji, Kurt House, *Natural Resources Research*, 2021 (under review)
 
 
-Sequential value of information for subsurface exploration drilling
+Sequential value of information for subsurface exploration drilling    
 Tyler Hall, Celine Scheidt, **Lijing Wang**, Zhen Yin, Tapan Mukerji, Jef Caers, *Natural Resources Research*, 2021 (under review)
 
 
@@ -38,10 +45,10 @@ Semi-supervised semantic segmentation for seismic interpretation
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, *Geophysics*, 2021 (under review)
 
 
-[Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038)
+[Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038)     
 Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, *Geophysical Research Letters*, 2021 
 
-[Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021767)
+[Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021767)      
 Alex Miltenberger, Sebastian Uhlemann, Tapan Mukerji, Ken Williams, Baptiste Dafflon, **Lijing Wang**, Haruko Murakami-Wainwright, *Journal of Geophysical Research - Solid Earth*, 2021
 
 [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
@@ -50,14 +57,10 @@ Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R
 [Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf)   
 Rose Rustowicz, Robin Cheong, **Lijing Wang**, Stefano Ermon, Marshall Burke, David Lobell, *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, 2019
 
-## Books
-Data Science for the Geosciences
-**Lijing Wang**, Zhen Yin, Jef Caers, Cambridge University Press, 2022 (In preparation)
-
 
 ## Presentations
 
-Uncertainty quantification of water exchanges due to beaver-induced inundation, *American Geophysical Union*, Fall Meeting 2021 (Presentation)    
+Uncertainty quantification of water exchanges due to beaver-induced inundation, *American Geophysical Union*, Fall Meeting 2021 (Presentation)      
 **Lijing Wang**, Zach Perzan, Tristan Babey, Martin Briggs, Sam Pierce, Brian Rogers, John Bargar, Kate Maher
 
 
@@ -65,7 +68,7 @@ The parallel worlds of DEMOGORGN Greenland, *American Geophysical Union*, Fall M
 Emma Mackie, **Lijing Wang**, Dustin Schroeder, Chen Zuo, Zhen Yin, Jef Caers, Matthew Hibbs
 
 
-Hydro-biogeochemical response of oxic-anoxic interfaces to beaver dam construction in a simulated floodplain aquifer, *American Geophysical Union*,  Fall Meeting 2021 (Poster)
+Hydro-biogeochemical response of oxic-anoxic interfaces to beaver dam construction in a simulated floodplain aquifer, *American Geophysical Union*,  Fall Meeting 2021 (Poster)    
 Tristan Babey, Zach Perzan, Brian Rogers, **Lijing Wang**, Sam Pierce, John Bargar, Kate Maher
 
 
