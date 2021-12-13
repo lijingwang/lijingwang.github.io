@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching 
+## Teaching
 
 - Data Science for Geoscience @ Stanford University: Course designer and teaching assistant of a new undergrad class, Winter 2021; Teaching assistant, Winter 2019
 - Teaching assistant, Data Analysis and Business Value @ Peking University, Spring 2017
@@ -17,5 +17,7 @@ author_profile: true
 - Mentoring students' course projects in Data Science for Geoscience class
 
 ## Service
-- Student Organizing Committee, Women in Data Science @ Stanford Earth, 2019
+- Student representative for Stanford Earth DEI (Diversity, Equity, Inclusion) Advisory Council, 2021
+- Graduate panelist for Stanford Earth IDEAL (Inclusion, Diversity, Equity,and Access) faculty search, 2021
+- Student organizing committee, Women in Data Science @ Stanford Earth, 2019
 - Co-president in Association of Chinese Students and Scholars at Stanford, 2019 - 2020
