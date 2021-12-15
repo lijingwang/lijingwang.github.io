@@ -72,6 +72,10 @@ Hydro-biogeochemical response of oxic-anoxic interfaces to beaver dam constructi
 Tristan Babey, Zach Perzan, Brian Rogers, **Lijing Wang**, Sam Pierce, John Bargar, Kate Maher
 
 
+Quantifying uncertainty of non-stationary geological interfaces: Metropolis-Hasting sampling of implicit level sets, *SIAM Conference on Mathematical & Computational Issues in the Geosciences*, 2021 (Presentation)     
+**Lijing Wang**, Luk Peeters, and Jef Caers
+
+
 Local decision making through understanding of multi-scale uncertainty: Application to well catchment protections in Denmark, *Computational Methods in Water Resources*, CMWR 2020 (Presentation)   
 **Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
 
