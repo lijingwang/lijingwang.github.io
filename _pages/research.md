@@ -73,23 +73,23 @@ Tristan Babey, Zach Perzan, Brian Rogers, **Lijing Wang**, Sam Pierce, John Barg
 
 
 Quantifying uncertainty of non-stationary geological interfaces: Metropolis-Hasting sampling of implicit level sets, *SIAM Conference on Mathematical & Computational Issues in the Geosciences*, 2021 (Presentation)     
-**Lijing Wang**, Luk Peeters, and Jef Caers
+**Lijing Wang**, Luk Peeters, Jef Caers
 
 
 Local decision making through understanding of multi-scale uncertainty: Application to well catchment protections in Denmark, *Computational Methods in Water Resources*, CMWR 2020 (Presentation)   
-**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
+**Lijing Wang**, Troels N. Vilhelmsen, Jef Caers
 
 Uncertainty assessment of hydrogeological structures combining geophysical survey and geological knowledge: A stochastic level set optimization framework, *American Geophysical Union*, Fall Meeting 2020 (Presentation)    
-**Lijing Wang**, Luk Peeters, and Jef Caers
+**Lijing Wang**, Luk Peeters, Jef Caers
 
 Direct forecasting of local hydraulic conductivity using combined geophysical and hydrological data: application to well catchment predictions in Danish aquifer system, *American Geophysical Union*, Fall Meeting 2019 (Poster)    
-**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
+**Lijing Wang**, Troels N. Vilhelmsen, Jef Caers
 
 Joint uncertainty quantification on spatial and global hydrogeological models: an application to Danish groundwater management, *American Geophysical Union*, Fall Meeting 2018 (Poster)    
-**Lijing Wang**, Troels N. Vilhelmsen, and Jef Caers
+**Lijing Wang**, Troels N. Vilhelmsen, Jef Caers
 
 Multi-scale signatures of climate change on landslide susceptibility: a case study for the Pacific Coast of the United States, *American Geophysical Union*, Fall Meeting 2018 (Poster)    
-Elizabeth Johnston, Jef Caers, **Lijing Wang**, Frances Davenport, Suresh Muthukrishnan, and Noah Diffenbaugh
+Elizabeth Johnston, Jef Caers, **Lijing Wang**, Frances Davenport, Suresh Muthukrishnan, Noah Diffenbaugh
 
 Reconstruction and forecasting oil rates using functional data analysis and universal co-kriging, *NGI Industrial Affiliates Meeting*, Stanford University, 2017 (Poster)    
-**Lijing Wang**, Ognjen Grujic, and Jef Caers
+**Lijing Wang**, Ognjen Grujic, Jef Caers
