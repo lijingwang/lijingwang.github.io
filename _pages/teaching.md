@@ -18,6 +18,9 @@ author_profile: true
 	- [Tutorial: Introduction to convolutional neural network for computer vision](https://github.com/lijingwang/dssg_cv_tutorial)
 - Mentoring students' course projects in Data Science for Geoscience class
 
+## Educational blog
+- [Introducation to Spatial Data Analysis, Stanford Data Science Scholar Blog](https://datascience.stanford.edu/news/scholar-blog-introduction-spatial-data-analysis)
+
 ## Service
 - Student representative for Stanford Earth DEI (Diversity, Equity, Inclusion) Advisory Council, 2021
 - Graduate panelist for Stanford Earth IDEAL (Inclusion, Diversity, Equity,and Access) faculty search, 2021

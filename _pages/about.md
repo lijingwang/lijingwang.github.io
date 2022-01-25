@@ -14,6 +14,6 @@ My research focuses on **bayesian inversion, geostatistics, and machine learning
 
 I obtained my Bachelor of Science degree in Space Physics and Applied Mathematics from Peking University. During my bachelors, I worked on several applied statistics projects with social impacts on environment, energy, and health. These projects encouraged me to pursue the interdisciplinary field in between data science and earth science to facilitate the sustainable development of earth resources. In Summer 2020, I did a Research Data Scientist internship in Total E&P, collaborating with Google Cloud. We focus on Artificial Intelligence solutions to optimize geophysical data interpretation with sparse labels. 
 
-I am passionate about teaching data science methods to geoscience audiences and the broader scientific community, with real earth science studies (i.e. natural hazards, climate change, earth resources) and interactive python notebooks! 
+I am passionate about teaching data science methods to geoscience audiences and the broader scientific community, with real earth science studies (i.e. natural hazards, climate change, earth resources) and interactive python notebooks! We are developing a new textbook on **Data Science for the Geosciences**. Stay tuned! 
 
 Outside of research, I enjoy hiking, photography, piano-playing, and I love all PLANTS. 

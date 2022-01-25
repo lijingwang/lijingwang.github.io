@@ -21,40 +21,40 @@ Data Science for the Geosciences
 
 ## Publications
 
-Uncertainty quantification of water exchanges due to beaver-induced inundation   
+1. Uncertainty quantification of water exchanges due to beaver-induced inundation   
 **Lijing Wang**, Zach Perzan, Tristan Babey, Martin Briggs, Sam Pierce, Brian Rogers, John Bargar, Kate Maher, 2021 (in preparation)
 
 
-Stochastic sampling of non-stationarygeological interfaces accounting for geological realism    
+2. Stochastic sampling of non-stationarygeological interfaces accounting for geological realism    
 **Lijing Wang**, Luk Peeters, Emma MacKie, and Jef Caers, 2021 (in preparation)
 
 
-Hierarchical Bayesian inversion of global variables and large-scale spatial fields    
+3. Hierarchical Bayesian inversion of global variables and large-scale spatial fields    
 **Lijing Wang**, Peter Kitanidis, and Jef Caers, *Water Resources Research*, 2021 (under review)
 
 
-Efficacy of information in mineral exploration drilling    
+4. Efficacy of information in mineral exploration drilling    
 Jef Caers, Celine Scheidt, Zhen Yin, **Lijing Wang**, Tapan Mukerji, Kurt House, *Natural Resources Research*, 2021 (under review)
 
 
-Sequential value of information for subsurface exploration drilling    
+5. Sequential value of information for subsurface exploration drilling    
 Tyler Hall, Celine Scheidt, **Lijing Wang**, Zhen Yin, Tapan Mukerji, Jef Caers, *Natural Resources Research*, 2021 (under review)
 
 
-Semi-supervised semantic segmentation for seismic interpretation  
+6. Semi-supervised semantic segmentation for seismic interpretation  
 **Lijing Wang**, Frederic Joncour, Pierre-Emmanuel Barrallon, Thibault Harribey, Chanchal Chatterjee, Laurent Castanie, Sonia Yousfi, and Sebastien Guillon, *Geophysics*, 2021 (under review)
 
 
-[Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038)     
+7. [Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038)     
 Elizabeth Johnston, Frances Davenport, **Lijing Wang**, Jef Caers, Suresh Muthukrishnan, Marshall Burke, and Noah Diffenbaugh, *Geophysical Research Letters*, 2021 
 
-[Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021767)      
+8. [Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021767)      
 Alex Miltenberger, Sebastian Uhlemann, Tapan Mukerji, Ken Williams, Baptiste Dafflon, **Lijing Wang**, Haruko Murakami-Wainwright, *Journal of Geophysical Research - Solid Earth*, 2021
 
-[Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
+9. [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/full/10.1089/ees.2020.0365)   
 Qingyun Li, **Lijing Wang**, Zach Perzan, Jef Caers, Gordon E. Brown Jr., John R. Bargar, and Kate Maher, *Environmental Engineering Science*, 2021
 
-[Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf)   
+10. [Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf)   
 Rose Rustowicz, Robin Cheong, **Lijing Wang**, Stefano Ermon, Marshall Burke, David Lobell, *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, 2019
 
 
