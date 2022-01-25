@@ -19,7 +19,7 @@ author_profile: true
 - Mentoring students' course projects in Data Science for Geoscience class
 
 ## Educational blog
-- [Introducation to Spatial Data Analysis, Stanford Data Science Scholar Blog](https://datascience.stanford.edu/news/scholar-blog-introduction-spatial-data-analysis)
+- [Introduction to Spatial Data Analysis, Stanford Data Science Scholar Blog](https://datascience.stanford.edu/news/scholar-blog-introduction-spatial-data-analysis)
 
 ## Service
 - Student representative for Stanford Earth DEI (Diversity, Equity, Inclusion) Advisory Council, 2021
