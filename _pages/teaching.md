@@ -22,7 +22,7 @@ author_profile: true
 - [Introduction to Spatial Data Analysis, Stanford Data Science Scholar Blog](https://datascience.stanford.edu/news/scholar-blog-introduction-spatial-data-analysis)
 
 ## Service
-- Student representative for Stanford Earth DEI (Diversity, Equity, Inclusion) Advisory Council, 2021
+- Student DEI leader representative, Stanford Earth, 2021 - 2022
 - Graduate panelist for Stanford Earth IDEAL (Inclusion, Diversity, Equity,and Access) faculty search, 2021
-- Student organizing committee, Women in Data Science @ Stanford Earth, 2019
+- Student organizing committee, Women in Data Science at Stanford Earth, 2019
 - Co-president in Association of Chinese Students and Scholars at Stanford, 2019 - 2020
