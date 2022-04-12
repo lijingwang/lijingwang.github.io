@@ -34,8 +34,8 @@ Data Science for the Geosciences
 **Lijing Wang**, Luk Peeters, Emma MacKie, and Jef Caers, 2022 (in prep.)
 
 
-4. Hierarchical Bayesian inversion of global variables and large-scale spatial fields    
-**Lijing Wang**, Peter Kitanidis, and Jef Caers, *Water Resources Research*, 2022 (in press)
+4. [Hierarchical Bayesian inversion of global variables and large-scale spatial fields](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031610)    
+**Lijing Wang**, Peter Kitanidis, and Jef Caers, *Water Resources Research*, 2022
 
 
 5. [Efficacy of information in mineral exploration drilling](https://link.springer.com/article/10.1007/s11053-022-10030-1)    
