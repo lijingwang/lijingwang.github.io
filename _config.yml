@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lijing Wang"
   avatar           : "Lijing_profile.JPG"
-  bio              : "Stanford Data Science Scholar\n Ph.D. candidate at Stanford University"
+  bio              : "Ph.D. at Stanford University, Incoming Postdoc Fellow at Lawrence Berkeley National Lab (LBNL)"
   location         : "Stanford, CA"
   employer         : 
   pubmed           : #""
@@ -90,7 +90,7 @@ author:
   email            : "lijing52@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lijing-wang-914b7ba4/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8121-5465"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "LijingWang8"
   vine             :
   weibo            :
   xing             :
