@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lijing Wang"
   avatar           : "Lijing_profile.JPG"
-  bio              : "Ph.D. at Stanford University, Incoming Postdoc Fellow at Lawrence Berkeley National Lab (LBNL)"
-  location         : "Stanford, CA"
+  bio              : "Postdoc Fellow at Lawrence Berkeley National Lab (LBNL), Ph.D. at Stanford University"
+  location         : "Berkeley, CA"
   employer         : 
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kWtChCQAAAAJ&hl=en"
-  email            : "lijing52@stanford.edu"
+  email            : "lijingwang@lbl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
