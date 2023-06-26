@@ -7,6 +7,8 @@ author_profile: true
 
 ## Teaching 
 
+- Data Science for the Geosciences 
+
 - Data Science for Geoscience @ Stanford University
 
   Co-designer and teaching assistant of the new undergrad class, Winter 2021   
