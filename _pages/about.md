@@ -11,8 +11,11 @@ redirect_from:
 Hi, I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory, working in the [Watershed Function SFA](https://watershed.lbl.gov/). I will be joining the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut as an Assistant Professor in Fall 2024. I am looking for several motivated Ph.D. students to join our group at UConn starting in Fall 2024. If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas, 
 
 1) Machine learning and artificial intelligence (AI) for decision making in water systems 
-2) Advanced hydrologic modeling
+
+2) Advanced hydrologic modeling: flow or reactive transport modeling
+
 3) Understanding climate disturbances impacts on water quality and quantity
+
 4) Integrating in-situ and geophysical datasets for hydrogeology
 
 please feel free to reach out to me directly: lijing.wang AT uconn.edu. Stay tuned for the official recruiting announcement, which will be shared this fall.

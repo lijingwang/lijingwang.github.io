@@ -9,21 +9,24 @@ author_profile: true
 
 - Model-data integration for hydrology
 - Machine learning-based inverse methods
-- Non-stationary geostatistics
+- Surrogate modeling with neural networks
+- Bayesian inference
 - Decision making for uncertain hydrologic systems
 
 ## Research 
 
-- Algorithm development for model-data integration for hydrology
-	1. [ (Prior) stochastic modeling] Stochastic explicit and implicit subsurface geomodeling with various datasets and geological knowledge
-	2. [ Model Calibration ] Machine learning-based inverse methods for hierarchical formulation of hydrologic models
-	3. [ Model Calibration ] Measure theory formulation of inverse problems
-	4. [ (Posterior) decision making] Efficacy of information 
-
 - Uncertainty quantification and decision making for hydrologic systems
-	1. [Watershed] Beavers' influence on hydrodynamics in an intermountain floodplain aquifer using hydrologic modeling and calibration
-	2. [Contaminated sites] Spatial-temporal groundwater contamination prediction using surrogate modeling
-	3. [Agricultural lands] Mapping redox condition in Danish farmlands using statistical learning
+	1. **Watershed**: Beavers' influence on hydrodynamics in an intermountain floodplain aquifer using hydrologic modeling and calibration (In prep.)
+	2. **Groundwater contamination sites: Nuclear waste**: Spatial-temporal groundwater contamination prediction using surrogate modeling ([Conference paper](https://arxiv.org/abs/2211.10884))
+	3. **Groundwater contamination sites: Agriculture** Mapping redox condition in Danish farmlands using statistical learning (In press with Hydrogeology Journal)
+
+- Algorithm development for model-data integration in hydrology
+	1. **Stochastic modeling (prior)**: Stochastic explicit and implicit subsurface geomodeling with various datasets and geological knowledge (Under review)
+	2. **Model calibration and inverse methods 1**: Machine learning-based inverse methods for hierarchical formulation of hydrologic models ([Journal Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031610))
+	3. **Model calibration and inverse methods 2**: Measure theory formulation of inverse problems  ([Preprint](https://eartharxiv.org/repository/view/5435/))
+	4. **Decision making (posterior)**: Efficacy of information  ([Journal paper](https://link.springer.com/article/10.1007/s11053-022-10030-1))
+
+For more of my research work, please refer to all publications at the CV page. 
 
 ## Book
 [Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
