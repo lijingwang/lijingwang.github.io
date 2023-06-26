@@ -30,6 +30,7 @@ For more of my research work, please refer to all publications at the CV page.
 
 ## Book
 [Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
+
 **Lijing Wang**, David Zhen Yin, Jef Caers, Cambridge University Press, 2023
 
 
