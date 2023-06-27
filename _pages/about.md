@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory, working in the [Watershed Function SFA](https://watershed.lbl.gov/). I will be joining the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut as an Assistant Professor in Fall 2024. **I am looking for several motivated Ph.D. students to join our group at UConn starting in Fall 2024.** If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas, 
+Hi, I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory, working in the [Watershed Function SFA](https://watershed.lbl.gov/). I will be joining the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut as an Assistant Professor in Fall 2024. **I am looking for several motivated Ph.D. students to join our group at UConn starting in Fall 2024.** If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
 
 1) Machine learning and artificial intelligence (AI) for decision making in water systems 
 
