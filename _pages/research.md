@@ -21,7 +21,7 @@ author_profile: true
 	3. **Groundwater contamination sites, Agriculture**: Mapping redox condition in Danish farmlands using statistical learning (In press with Hydrogeology Journal)
 
 - Algorithm development for model-data integration in hydrology
-	1. **Stochastic modeling (prior)**: Stochastic explicit and implicit subsurface geomodeling with various datasets and geological knowledge (Under review)
+	1. **Stochastic modeling (prior)**: Stochastic explicit and implicit subsurface geomodeling with various datasets and geological knowledge ([Journal Paper](https://www.sciencedirect.com/science/article/pii/S0098300423001231))
 	2. **Model calibration and inverse methods 1**: Machine learning-based inverse methods for hierarchical formulation of hydrologic models ([Journal Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031610))
 	3. **Model calibration and inverse methods 2**: Measure theory formulation of inverse problems  ([Preprint](https://eartharxiv.org/repository/view/5435/))
 	4. **Decision making (posterior)**: Efficacy of information  ([Journal paper](https://link.springer.com/article/10.1007/s11053-022-10030-1))

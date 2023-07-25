@@ -18,7 +18,7 @@ Hi, I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laborat
 
 4) Integrating in-situ and geophysical datasets for hydrogeology
 
-please feel free to reach out to me directly: lijing.wang AT uconn.edu. Stay tuned for the official recruiting announcement, which will be shared in Fall 2023.
+please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research plan/goal. Stay tuned for the official recruiting announcement, which will be shared in Fall 2023. 
 
 I graduated from the Department of Earth and Planetary Sciences at Stanford University in March 2023, advised by Professor [Jef Caers](https://profiles.stanford.edu/jef-caers?tab=bio). I also hold a Ph.D. minor in Computer Science. At Stanford, I was affiliated with [Stanford Center of Earth Resource Forecasting](https://scerf.stanford.edu/) and [Stanford Data Science Scholar Program](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). My ultimate career goal is to **provide decision solutions for water resources under climate change using advanced modeling, machine learning, and decision science methods**. Previous to the graduate school, I obtained my Bachelor of Science degree in Space Physics and Applied Mathematics from Peking University. 
 
