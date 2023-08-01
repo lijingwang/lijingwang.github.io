@@ -18,7 +18,7 @@ author_profile: true
 - Uncertainty quantification and decision making for hydrologic systems
 	1. **Watershed**: Beavers' influence on hydrodynamics in an intermountain floodplain aquifer using hydrologic modeling and calibration (In prep.)
 	2. **Groundwater contamination sites, Nuclear waste**: Spatial-temporal groundwater contamination prediction using surrogate modeling ([Conference paper](https://arxiv.org/abs/2211.10884))
-	3. **Groundwater contamination sites, Agriculture**: Mapping redox condition in Danish farmlands using statistical learning (In press with Hydrogeology Journal)
+	3. **Groundwater contamination sites, Agriculture**: Mapping redox condition in Danish farmlands using statistical learning ([Journal Paper](https://link.springer.com/article/10.1007/s10040-023-02640-7))
 
 - Algorithm development for model-data integration in hydrology
 	1. **Stochastic modeling (prior)**: Stochastic explicit and implicit subsurface geomodeling with various datasets and geological knowledge ([Journal Paper](https://www.sciencedirect.com/science/article/pii/S0098300423001231))
