@@ -5,7 +5,7 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-**I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024.** 
+### I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. 
 
 If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
 
@@ -23,12 +23,9 @@ Desired qualifications include:
 
 - MS or BS degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.
 - Experience in scientific programming (e.g., Python, Matlab, R, Julia).
-- Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field experiences in hydrology is highly desirable. 
-- MS or BS degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science or other related fields. 
-- Have experience in scientific programming (i.e. Python/Matlab/R/Julia). 
-- Highly desirable experience in machine learning, hydrologic modeling (i.e. MODFLOW/ATS-Amanzi/ParFlow),  Bayesian statistics (i.e. Bayes' Rule, Markov chain Monte Carlo), Geostatistics or field experiences in hydrology. 
+- Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field work in geophysics/hydrology is highly desirable. 
 
-However, technical skills are not required to join the group. Motivation and a willingness to learn are often the keys to success. 
+However, technical skills and publications are not required to join the group. Curiosity and diligence are the keys to success.
 
 
 ### How to Apply
@@ -47,11 +44,12 @@ Note that you might not be able to find me in the application system as your sug
 
 4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, who you might want to work with. Here you can indicate your research interests and the potential advisors you would like to work with. 
 
-5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/).
+5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/). GRE is NOT required. 
 
-
-%### About UConn
-
+<!---
+1. Fellowship
+2. UConn information
+-->
 
 
 
