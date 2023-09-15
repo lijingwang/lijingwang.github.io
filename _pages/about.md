@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+
+
 I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory, working in the [Watershed Function SFA](https://watershed.lbl.gov/). I will be joining the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut as an Assistant Professor in Fall 2024. 
 
-## News
 
 
-
-## More about me
+## About Dr. Lijing Wang
 
 I graduated from the Department of Earth and Planetary Sciences at Stanford University in March 2023, advised by Professor [Jef Caers](https://profiles.stanford.edu/jef-caers?tab=bio). I also hold a Ph.D. minor in Computer Science. At Stanford, I was affiliated with [Stanford Center of Earth Resource Forecasting](https://scerf.stanford.edu/) and [Stanford Data Science Scholar Program](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). My ultimate career goal is to **provide decision solutions for water resources under climate change using advanced modeling, machine learning, and decision science methods**. Previous to the graduate school, I obtained my Bachelor of Science degree in Space Physics and Applied Mathematics from Peking University. 
 
