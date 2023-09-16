@@ -38,15 +38,14 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 [3] A. Miltenberger, S. Uhlemann, T. Mukerji, K. Williams,  B. Dafflon, **L. Wang**, H. Murakami-Wainwright, [Probabilistic evaluation of geoscientific hypotheses with geophysical data: application to electrical resistivity imaging of a fractured bedrock zone](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB021767), Journal of Geophysical Research - Solid Earth, 2021
 
-
 [2] E. C. Johnston, F. Davenport, **L. Wang**, J. Caers, S. Muthukrishnan, M. Burke, N. S. Diffenbaugh, [Quantifying the influence of precipitation intensity on landslide hazard in urbanized and non-urbanized areas](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094038), Geophysical Research Letters, 2021
 
-[1] Q. Li, \textbf{L. Wang}, Z. Perzan, J. Caers, G. Brown, J. Bargar, K. Maher, [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/10.1089/ees.2020.0365), Environmental Engineering Science, 2021
+[1] Q. Li, **L. Wang**, Z. Perzan, J. Caers, G. Brown, J. Bargar, K. Maher, [Global sensitivity analysis of a reactive transport model for mineral scale formation during hydraulic fracturing](https://www.liebertpub.com/doi/10.1089/ees.2020.0365), Environmental Engineering Science, 2021
 
 
 ### Conference proceedings
 
-[2]. L. Wang, T. Kurihana, A. Meray, I. Mastilovic, S. Praveen, Z. Xu, M. Memarzadeh, A. Lavin, H. Murakami-Wainwright, [Multi-scale Digital Twin: Developing a fast and physics-infused surrogate model for groundwater contamination with uncertain climate models](https://arxiv.org/abs/2211.10884), Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems, 2022
+[2] **L. Wang**, T. Kurihana, A. Meray, I. Mastilovic, S. Praveen, Z. Xu, M. Memarzadeh, A. Lavin, H. Murakami-Wainwright, [Multi-scale Digital Twin: Developing a fast and physics-infused surrogate model for groundwater contamination with uncertain climate models](https://arxiv.org/abs/2211.10884), Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems, 2022
 
-[1]. R. M. Rustowicz, R. Cheong,  **L. Wang**, S. Ermon, M. Burke, D. Lobell, [Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf), Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 2019
+[1] R. M. Rustowicz, R. Cheong,  **L. Wang**, S. Ermon, M. Burke, D. Lobell, [Semantic segmentation of crop type in Africa: A novel dataset and analysis of deep learning methods](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Rustowicz_Semantic_Segmentation_of_Crop_Type_in_Africa_A_Novel_Dataset_CVPRW_2019_paper.pdf), Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 2019
 
