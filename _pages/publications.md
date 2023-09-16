@@ -21,7 +21,7 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 [8] **L. Wang**, H. Kim,  A. V.  Christiansen, B. Hansen, J. Caers, [Statistical modeling of 3D redox architecture from non-colocated redox borehole and transient electromagnetic data](https://link.springer.com/article/10.1007/s10040-023-02640-7), Hydrogeology Journal (SI: Geostatistics and Hydrogeology), 2023
 
 
-[7] **L. Wang**, F. Joncour, P. Barrallon, T. Harribey, L. Castanie, S. Yousfi, S. Guillon, [Semi-supervised semantic segmentation for seismic interpretation](https://link.springer.com/article/10.1007/s10040-023-02640-7), Geophysics, 2023
+[7] **L. Wang**, F. Joncour, P. Barrallon, T. Harribey, L. Castanie, S. Yousfi, S. Guillon, [Semi-supervised semantic segmentation for seismic interpretation](https://library.seg.org/doi/10.1190/geo2021-0365.1), Geophysics, 2023
 
 
 > 2022
