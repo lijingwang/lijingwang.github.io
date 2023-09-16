@@ -42,7 +42,7 @@ Note that you might not be able to find me in the application system as your sug
 
 3. Three letters of reference. 
 
-4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, who you might want to work with. Here you can indicate your research interests and the potential advisors you would like to work with. 
+4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, which faculty you might want to work with. 
 
 5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/). GRE is NOT required. 
 
