@@ -25,7 +25,7 @@ Desired qualifications include:
 - Experience in scientific programming (e.g., Python, Matlab, R, Julia).
 - Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field work in geophysics/hydrology is highly desirable. 
 
-However, technical skills and publications are not required to join the group. Curiosity and diligence are the keys to success.
+However, technical skills and publications are not required to join the group. Curiosity, patience and diligence are the keys to success, at least as a PhD student. 
 
 
 ### How to Apply
@@ -45,6 +45,13 @@ Note that you might not be able to find me in the application system as your sug
 4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, who you might want to work with. Here you can indicate your research interests and the potential advisors you would like to work with. 
 
 5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/). GRE is NOT required. 
+
+
+### Useful links
+
+- [How to be a successful PhD student](https://static1.squarespace.com/static/54b9bb6fe4b07b4a7d145b55/t/557adbffe4b08cdd585d48c2/1434115071095/2011-HowtodoaPHD.pdf), by Professor Cin-Ty Lee at Rice University
+
+
 
 <!---
 1. Fellowship
