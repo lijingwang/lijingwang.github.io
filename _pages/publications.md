@@ -16,7 +16,7 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 [10] **L. Wang**, L. Peeters, E.J. MacKie, Z. Yin, J. Caers, [Unraveling the uncertainty of geological interfaces through data-knowledge-driven trend surface analysis](https://www.sciencedirect.com/science/article/pii/S0098300423001231), Computers & Geosciences, 2023
 
-[9] E.J. MacKie, M. Field, **L. Wang**, Z. Yin, N. Schoedl, M. Hibbs, A. Zhang,  [GStatSim V1.0: a Python package for geostatistical interpolation and simulation](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-1224/), Geoscientific Model Development, 2023}
+[9] E.J. MacKie, M. Field, **L. Wang**, Z. Yin, N. Schoedl, M. Hibbs, A. Zhang,  [GStatSim V1.0: a Python package for geostatistical interpolation and simulation](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-1224/), Geoscientific Model Development, 2023
 
 [8] **L. Wang**, H. Kim,  A. V.  Christiansen, B. Hansen, J. Caers, [Statistical modeling of 3D redox architecture from non-colocated redox borehole and transient electromagnetic data](https://link.springer.com/article/10.1007/s10040-023-02640-7), Hydrogeology Journal (SI: Geostatistics and Hydrogeology), 2023
 
