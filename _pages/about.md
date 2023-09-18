@@ -14,8 +14,10 @@ I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory 
 - Ph.D.: Geological Sciences at Stanford University, minor in Computer Science
 - B.S.: Space Physics and Applied Mathematics at Peking University
 
-<h1>Lijing with tTEM (a towed, ground-based, transient electromagnetic system) in Denmark, Summer 2019 </h1>
-<img src="/images/Lijing_tTEM.jpg" alt="Lijing tTEM at Denmark">
+<figure>
+   <img src="/images/Lijing_tTEM.jpg" alt="Lijing tTEM at Denmark">
+   <figcaption>Lijing with tTEM (a towed, ground-based, transient electromagnetic system) in Denmark, Summer 2019</figcaption>
+</figure>
 
 ### More about me
 I’m a geostatistician and hydrogeologist specializing in integrating hydrologic modeling and multiscale datasets, such as geophysical surveys and in-situ hydrologic measurements. My research explores the impacts of various uncertain factors, from bedrock to canopy to climate disturbances, on watersheds and aquifers. I also develop machine learning and Bayesian inference methods to calibrate hydrologic models and quantify their uncertainty. Additionally, I’m committed to teaching data science to geoscientists, showcased in our new textbook, “**[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)**,” published by Cambridge University Press. 

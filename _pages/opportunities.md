@@ -27,8 +27,11 @@ please feel free to reach out to me directly: lijing.wang AT uconn.edu, with you
 
 However, technical skills and publications are not required to join the group as graduate students. Curiosity, communication and perseverance are the keys to success. 
 
-<h1>UConn Wilbur Cross Building in Winter 2023</h1>
-<img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
+<figure>
+   <img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
+   <figcaption>UConn Wilbur Cross Building in Winter 2023</figcaption>
+</figure>
+
 
 ### How to Apply
 
