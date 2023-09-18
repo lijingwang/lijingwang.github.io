@@ -5,6 +5,9 @@ permalink: /opportunities/
 author_profile: true
 ---
 
+<img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
+
+
 ### I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. 
 
 If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
@@ -21,11 +24,11 @@ please feel free to reach out to me directly: lijing.wang AT uconn.edu, with you
 
 Desired qualifications include:
 
-- MS or BS degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.
+- M.S. or B.S. degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.
 - Experience in scientific programming (e.g., Python, Matlab, R, Julia).
 - Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field work in geophysics/hydrology is highly desirable. 
 
-However, technical skills and publications are not required to join the group. Curiosity, patience and diligence are the keys to success, at least as a PhD student. 
+However, technical skills and publications are not required to join the group. Curiosity, patience and diligence are the keys to success. 
 
 
 ### How to Apply
@@ -50,6 +53,11 @@ Note that you might not be able to find me in the application system as your sug
 ### Useful links
 
 - [How to be a successful PhD student](https://static1.squarespace.com/static/54b9bb6fe4b07b4a7d145b55/t/557adbffe4b08cdd585d48c2/1434115071095/2011-HowtodoaPHD.pdf), by Professor Cin-Ty Lee at Rice University
+
+
+### About UConn and UConn Earth Sciences
+
+
 
 
 
