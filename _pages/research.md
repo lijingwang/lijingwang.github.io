@@ -8,7 +8,51 @@ author_profile: true
 # Model-data integration in hydrology
 
 
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ## Current Research
+[Uncertainty quantification in mountainous watersheds]
+
+[When physical modeling is fast]
+Paper: 
+[When physical modeling is not availbel]
+Paper:
+[Hier]
+Paper:
+[Uncertainty of subsurface interfaces: An implicit]
+Paper:
+
+
+## Previous Research 
+[Geophysics]
+Selected paper: -->
 
 
 ## General research interests
@@ -33,12 +77,6 @@ author_profile: true
 	4. **Decision making (posterior)**: Efficacy of information  ([Journal paper](https://link.springer.com/article/10.1007/s11053-022-10030-1))
 
 For more of my research work, please refer to [the Publications page](https://lijingwang.github.io/publication/). 
-
-## Book
-[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
-
-**Lijing Wang**, David Zhen Yin, Jef Caers, Cambridge University Press, 2023
-
 
 <!-- \hyperlink{https://arxiv.org/abs/2211.10884}{\textbf{L. Wang}, T. Kurihana, A. Meray, I. Mastilovic, S. Praveen, Z. Xu, M. Memarzadeh, A. Lavin, H. Murakami-Wainwright, Multi-scale Digital Twin: Developing a fast and physics-infused surrogate model for groundwater contamination with uncertain climate models, \textit{Machine Learning and the Physical Sciences Workshop at the 36th conference on Neural Information Processing Systems}, 2022}
 
