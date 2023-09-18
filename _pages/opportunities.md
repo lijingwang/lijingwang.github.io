@@ -17,7 +17,7 @@ If you are interested in water, climate and artificial intelligence (AI) in gene
 
 4) Advanced hydrologic modeling: flow or reactive transport modeling
 
-please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research plan/goal. Premilinary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
+please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research plan/goal. Preliminary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
 
 ### Desired qualifications
 
