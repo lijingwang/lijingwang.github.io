@@ -55,7 +55,7 @@ Note that you might not be able to find me in the application system as your sug
 
 ### About UConn and UConn Earth Sciences
 
-[University of Connecticut](https://uconn.edu/) (UConn), Connecticut's flagship university, proudly holds the #58 ranking in the 2024 Best National University Rankings by US News. Our main campus, nestled in the rural, forested, and rolling highlands of Mansfield, Connecticut, offers an idyllic setting for learning and growth.Situated in the heart of the Northeast, halfway between Boston (a 1.5-hour drive) and New York City (a 2.5-hour drive), we find ourselves in the charming New England town of Storrs, known for its picturesque autumn scenery.
+[University of Connecticut](https://uconn.edu/) (UConn), Connecticut's flagship university, proudly holds the #58 ranking in the 2024 Best National University Rankings by US News. Our main campus, nestled in the rural, forested, and rolling highlands of Mansfield, Connecticut, offers an idyllic setting for learning and growth. Situated in the heart of the Northeast, halfway between Boston (a 1.5-hour drive) and New York City (a 2.5-hour drive), we find ourselves in the charming New England town of Storrs, known for its picturesque autumn scenery.
 
 At UConn Earth Sciences, we delve into a multitude of Earth Sciences disciplines, including geophysics, hydrology, climate change, geomorphology, and paleontology. To explore more about our department, please visit [our website](https://earthsciences.uconn.edu/).
 
