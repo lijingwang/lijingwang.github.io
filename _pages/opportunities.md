@@ -5,9 +5,6 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-<img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
-
-
 ### I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. 
 
 If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
@@ -22,7 +19,7 @@ If you are interested in water, climate and artificial intelligence (AI) in gene
 
 please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research plan/goal. Premilinary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
 
-Desired qualifications include:
+### Desired qualifications
 
 - M.S. or B.S. degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.
 - Experience in scientific programming (e.g., Python, Matlab, R, Julia).
@@ -30,6 +27,7 @@ Desired qualifications include:
 
 However, technical skills and publications are not required to join the group. Curiosity, patience and diligence are the keys to success. 
 
+<img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
 
 ### How to Apply
 
@@ -57,9 +55,9 @@ Note that you might not be able to find me in the application system as your sug
 
 ### About UConn and UConn Earth Sciences
 
+[University of Connecticut](https://uconn.edu/) (UConn), Connecticut's flagship university, proudly holds the #58 ranking in the 2024 Best National University Rankings by US News. Our main campus, nestled in the rural, forested, and rolling highlands of Mansfield, Connecticut, offers an idyllic setting for learning and growth.Situated in the heart of the Northeast, halfway between Boston (a 1.5-hour drive) and New York City (a 2.5-hour drive), we find ourselves in the charming New England town of Storrs, known for its picturesque autumn scenery.
 
-
-
+At UConn Earth Sciences, we delve into a multitude of Earth Sciences disciplines, including geophysics, hydrology, climate change, geomorphology, and paleontology. To explore more about our department, please visit [our website](https://earthsciences.uconn.edu/).
 
 <!---
 1. Fellowship
