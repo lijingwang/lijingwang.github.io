@@ -9,22 +9,27 @@ author_profile: true
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="image.jpg" alt="Research Image 1" width="200">
-  </div>
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     **When Physics-based Models are Slow:**
     Description for the first research item goes here.
   </div>
+  <div style="flex: 2; margin-right: 10px;">
+    <img src="image.jpg" alt="Research Image 1" width="200">
+  </div>
+  
 </div>
 
+
+workflow for iteratively labeling new data using active learning and
+deep ensembles
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="image2.jpg" alt="Research Image 2" width="200">
+  <div style="flex: 1;">
+    **Active learning to iteratively label new geophysical data**
+    Seismic interpretation plays an essential role in locating subsurface horizons and understanding geological formations. This project investigates how to use semi-supervised segmentation to improve horizon predictions, even if we have only a few labeled horizons. An active learning framework is also proposed to label the most uncertain unlabeled sections, given the uncertainty estimation using deep ensembles. We believe our work helps geophysicists reduce the amount of labeling effort and achieve higher facies classification accuracy with the same amount of labeling work.
+    Paper: [Wang et al., Geophysics, 2023](https://library.seg.org/doi/abs/10.1190/geo2021-0365.1)
   </div>
-  <div style="flex: 2;">
-    **Research 2:**
-    Description for the second research item goes here.
+  <div style="flex: 2; margin-right: 10px;">
+    <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="200">
   </div>
 </div>
 
