@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+# Model-data integration in hydrology
+
+
+
+
+
 ## General research interests
 
 - Model-data integration for hydrology
@@ -26,7 +32,7 @@ author_profile: true
 	3. **Model calibration and inverse methods 2**: Measure theory formulation of inverse problems  ([Preprint](https://eartharxiv.org/repository/view/5435/))
 	4. **Decision making (posterior)**: Efficacy of information  ([Journal paper](https://link.springer.com/article/10.1007/s11053-022-10030-1))
 
-For more of my research work, please refer to all publications at the CV page. 
+For more of my research work, please refer to [the Publications page](https://lijingwang.github.io/publication/). 
 
 ## Book
 [Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
