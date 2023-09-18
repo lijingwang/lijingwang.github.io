@@ -8,16 +8,17 @@ author_profile: true
 # Teaching
 
 - [Data Science for the Geosciences, Cambridge University Press, 2023](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview)
-
-<figure>
-   <img src="/images/DS4GS_cover.png" alt="DS4GS_cover">
-   <figcaption>Book cover: Data Science for the Geosciences</figcaption>
-</figure> 
-
 	- An accessible textbook providing data science foundations to address earth science questions using real-world case studies.
 	- Step-by-step instruction for each method, allowing students to easily put their skills into practice
 	- Real earth datasets and case studies to address Earth science questions across a range of disciplines
 	- Intuitive reasoning without the need for complex mathematics or prior coding experience
+
+
+<figure style="max-width: 500px;">
+   <img src="/images/DS4GS_cover.png" alt="DS4GS_cover">
+   <figcaption>Book cover: Data Science for the Geosciences</figcaption>
+</figure> 
+
 
 
 
