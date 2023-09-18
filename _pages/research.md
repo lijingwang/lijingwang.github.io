@@ -7,46 +7,26 @@ author_profile: true
 
 # Model-data integration in hydrology
 
-<style>
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-th, td {
-    border: none; /* This removes the border */
-    text-align: left;
-    padding: 8px;
-}
-</style>
 
-<table>
-<tr>
-<th> When Physics-based Models are Slow </th>
-<th> Physics-informed Surrogate modeling </th>
-</tr>
-<tr>
-<td>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="image.jpg" alt="Research Image 1" width="200">
+  </div>
+  <div style="flex: 2;">
+    **When Physics-based Models are Slow:**
+    Description for the first research item goes here.
+  </div>
+</div>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="image2.jpg" alt="Research Image 2" width="200">
+  </div>
+  <div style="flex: 2;">
+    **Research 2:**
+    Description for the second research item goes here.
+  </div>
+</div>
 
 <!-- ## Current Research
 [Uncertainty quantification in mountainous watersheds]
