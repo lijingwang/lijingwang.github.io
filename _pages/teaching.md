@@ -13,13 +13,10 @@ author_profile: true
 	- Real earth datasets and case studies to address Earth science questions across a range of disciplines
 	- Intuitive reasoning without the need for complex mathematics or prior coding experience
 
-
 <figure style="max-width: 500px;">
    <img src="/images/DS4GS_cover.png" alt="DS4GS_cover">
    <figcaption>Book cover: Data Science for the Geosciences</figcaption>
 </figure> 
-
-
 
 
 - ERTH 4735/NRE 4135 Introduction to Ground Water Hydrogeology (Fall 2024)

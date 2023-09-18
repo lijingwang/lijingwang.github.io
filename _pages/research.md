@@ -7,11 +7,22 @@ author_profile: true
 
 # Model-data integration in hydrology
 
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: none; /* This removes the border */
+    text-align: left;
+    padding: 8px;
+}
+</style>
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> When Physics-based Models are Slow </th>
+<th> Physics-informed Surrogate modeling </th>
 </tr>
 <tr>
 <td>
