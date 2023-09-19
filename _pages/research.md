@@ -7,6 +7,24 @@ author_profile: true
 
 # Model-data integration in hydrology
 
+<!-- ## Stochastic subsurface geomodeling by integrating mulitple datasets and geological knowledge  -->
+
+## Data-knowledge-driven geological interfaces modeling
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="width: 40%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
+    <p>
+      Modeling complex geological interfaces is a common task in geosciences. Many data sources are available for geological interface modeling, including borehole data and geophysical surveys. Geological knowledge, such as the delineation from geologists, is difficult to quantify but likely adds value to geological interface modeling. To integrate all information, this project presents a data-knowledge-driven trend surface analysis method to construct stochastic geological interfaces. A Metropolis–Hastings sampling framework is designed to sample stochastic trend interfaces and quantify the uncertainty of geological interfaces. We demonstrate our method in three different test cases: modeling stochastic interfaces of Greenland subglacial topography, magmatic intrusion, and buried river valleys in Australia.
+    </p>
+    <p> <!-- Add this for line spacing -->
+      Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0098300423001231">Wang et al., Computers & Geosciences, 2023</a>
+    </p>
+  </div>
+  <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
+    <a href="https://www.sciencedirect.com/science/article/pii/S0098300423001231">
+      <img src="/images/Inteface_modeling.jpg" alt="Interface modeling" width="500"> <!-- Adjust width for larger figure -->
+    </a>
+  </div>
+</div>
 
 ## Active learning to iteratively label new geophysical data
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
