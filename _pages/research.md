@@ -15,8 +15,10 @@ author_profile: true
     <p>
       This project studys the impacts of uncertain factors, which range from bedrock to canopy to climate disturbances, within diverse floodplains and hillslopes situated in mountainous watersheds. We leverage advanced modeling, machine learning and decision science to learn the importance of underlying factors, ultimately enhancing our ability to quantify the uncertainty of both water quantity and quality in the near future. 
     </p>
-  </div>
+    <p>
       Papers are in preparation. 
+    </p>
+  </div>   
   <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed, by Professor Kate Maher at Stanford University</figcaption>
@@ -33,11 +35,11 @@ author_profile: true
       We demonstrate our surrogate modeling approach at one testbed: Savannah River Site (SRS) F-Area. The faster surrogate model can help us assess the spatiotemporal variations of groundwater contamination under uncertain climate disturbances more efficiently. The ultimate goal is to provide decision solutions for contaminated sites monitoring. 
     </p>
     <p> <!-- Add this for line spacing -->
-      Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a>
+      Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a> \n
       Journal paper is under review. 
     </p>
   </div>
-  <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
     <a href="https://arxiv.org/abs/2211.10884">
       <img src="/images/Digitaltwin.png" alt="digitaltwin" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
@@ -51,6 +53,7 @@ author_profile: true
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
       Agricultural nitrate pollutants infiltrate into the subsurface and contaminate groundwater. The redox environment in the subsurface is important for the natural removal of nitrate by denitrification. However, the redox structure modeling in 3D requires additional assumptions and the process-based modeling is difficult to formulate and to solve. This project combines the geophysical survey: towed transient electromagnetic resistivity (tTEM) and redox boreholes to model 3D redox architecture stochastically using statistical learning, geostatistics and local inversion methods. This statistical learning framework also provides important resistivity structures for domain experts to understand what controls the redox conditions. The highly accurate redox architecture supports a better agricultural regulation decision. 
+    </p>
     <p>
       Paper: <a href="https://link.springer.com/article/10.1007/s10040-023-02640-7">Wang et al., Hydrogeology Journal, 2023</a>
     </p>
