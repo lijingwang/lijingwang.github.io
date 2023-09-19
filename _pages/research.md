@@ -54,7 +54,7 @@ author_profile: true
 </div>
 
 
-## Statistical modeling as the alternative for process-based modeling
+## Statistical modeling as the alternative to process-based modeling
 - Study site: Jutland, Denmark
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
