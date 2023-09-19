@@ -21,7 +21,7 @@ author_profile: true
   </div>   
   <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
-      <figcaption>The East River Watershed, by Professor Kate Maher at Stanford University</figcaption>
+      <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
   </div>
 </div>
 
@@ -31,15 +31,16 @@ author_profile: true
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      Understanding the climate impact on groundwater contamination requires us to quantify the uncertainty from both subsurface and climate properties. Doing so requires fast and accurate numerical simulations. We address the computational cost challenge for numerical models using a physics-informed neural network, where we combine the U-Net enhanced Fourier Neural Operator (U-FNO) with the physics-informed loss functions. 
-      We demonstrate our surrogate modeling approach at one testbed: Savannah River Site (SRS) F-Area. The faster surrogate model can help us assess the spatiotemporal variations of groundwater contamination under uncertain climate disturbances more efficiently. The ultimate goal is to provide decision solutions for contaminated sites monitoring. 
+      Understanding the climate impact on groundwater contamination requires us to quantify the uncertainty from both subsurface and climate properties. Doing so requires fast and accurate numerical simulations. We address the computational cost challenge for numerical models using a physics-informed neural network, where we combine the Neural Opertor with the physics-informed loss functions. We demonstrate our surrogate modeling approach at one testbed: Savannah River Site (SRS) F-Area. The faster surrogate model can help us assess the spatiotemporal variations of groundwater contamination under uncertain climate disturbances more efficiently. The ultimate goal is to provide decision solutions for contaminated sites monitoring. 
     </p>
     <p> <!-- Add this for line spacing -->
-      Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a> \n
+      Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a>
+    </p>
+    <p> 
       Journal paper is under review. 
     </p>
   </div>
-  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 100px;"> <!-- Set width to 60% for the figure -->
     <a href="https://arxiv.org/abs/2211.10884">
       <img src="/images/Digitaltwin.png" alt="digitaltwin" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
@@ -58,7 +59,7 @@ author_profile: true
       Paper: <a href="https://link.springer.com/article/10.1007/s10040-023-02640-7">Wang et al., Hydrogeology Journal, 2023</a>
     </p>
   </div>
-  <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
     <a href="https://link.springer.com/article/10.1007/s10040-023-02640-7">
       <img src="/images/Denmark.png" alt="Denmark" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
