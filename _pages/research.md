@@ -21,7 +21,7 @@ author_profile: true
   </div>
   <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">
-      <img src="/images/Workflow_hierarchicalBayes.jpg" alt="hierarchicalBayes" width="500"> <!-- Adjust width for larger figure -->
+      <img src="/images/Workflow_hierarchicalBayes.jpeg" alt="hierarchicalBayes" width="500"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
