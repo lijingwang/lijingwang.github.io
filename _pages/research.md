@@ -5,8 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-# Model-data integration in hydrology
+# Research: Model-data integration in hydrology
 
+<div style="text-align: center;">
+  <figure style="max-width: 500px; margin-left: auto; margin-right: auto;">
+    <img src="/images/model_data.png" alt="model_data">
+    <figcaption>A loop of model-data integration for hydrology, including model calibration and modeling informed data collection.</figcaption>
+  </figure>
+</div>
 
 ## Uncertainty quantification for mountainous watersheds
 - Study site: East River, Colorado, United States

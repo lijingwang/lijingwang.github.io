@@ -14,10 +14,10 @@ author_profile: true
 	- Intuitive reasoning without the need for complex mathematics or prior coding experience
 
 <a href="https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview">
-  <figure style="max-width: 500px;">
-    <img src="/images/DS4GS_cover.png" alt="DS4GS_cover">
-    <figcaption>Book cover: Data Science for the Geosciences</figcaption>
-  </figure>
+	<figure style="max-width: 500px;">
+  		<img src="/images/DS4GS_cover.png" alt="DS4GS_cover">
+  		<figcaption>Book cover: Data Science for the Geosciences</figcaption>
+	</figure>
 </a>
 
 - ERTH 4735/NRE 4135 Introduction to Ground Water Hydrogeology (Fall 2024)
