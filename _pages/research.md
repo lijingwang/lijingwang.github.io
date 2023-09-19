@@ -20,7 +20,7 @@ author_profile: true
   </div>
   <div style="width: 60%; margin-right: 10px;"> <!-- Set width to 60% for the figure -->
     <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">
-      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="300"> <!-- Adjust width for larger figure -->
+      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="500"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
