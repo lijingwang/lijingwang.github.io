@@ -29,7 +29,7 @@ author_profile: true
 
 ## Data-knowledge-driven geological interfaces modeling
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="width: 40%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
+  <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
       Modeling complex geological interfaces is a common task in geosciences. Many data sources are available for geological interface modeling, including borehole data and geophysical surveys. Geological knowledge, such as the delineation from geologists, is difficult to quantify but likely adds value to geological interface modeling. To integrate all information, this project presents a data-knowledge-driven trend surface analysis method to construct stochastic geological interfaces. A Metropolis–Hastings sampling framework is designed to sample stochastic trend interfaces and quantify the uncertainty of geological interfaces. We demonstrate our method in three different test cases: modeling stochastic interfaces of Greenland subglacial topography, magmatic intrusion, and buried river valleys in Australia.
     </p>
@@ -37,7 +37,7 @@ author_profile: true
       Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0098300423001231">Wang et al., Computers & Geosciences, 2023</a>
     </p>
   </div>
-  <div style="width: 60%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
     <a href="https://www.sciencedirect.com/science/article/pii/S0098300423001231">
       <img src="/images/Inteface_modeling.jpg" alt="Interface modeling" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
@@ -46,7 +46,7 @@ author_profile: true
 
 ## Active learning to iteratively label new geophysical data
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="width: 40%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
+  <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
       Seismic interpretation plays an essential role in locating subsurface horizons and understanding geological formations. This project investigates how to use semi-supervised segmentation to improve horizon predictions, even if we have only a few labeled horizons. An active learning framework is also proposed to label the most uncertain unlabeled sections, given the uncertainty estimation using deep ensembles. We believe our work helps geophysicists reduce the amount of labeling effort and achieve higher facies classification accuracy with the same amount of labeling work.
     </p>
@@ -54,7 +54,7 @@ author_profile: true
       Paper: <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">Wang et al., Geophysics, 2023</a>
     </p>
   </div>
-  <div style="width: 60%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
     <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">
       <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
