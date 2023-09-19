@@ -21,7 +21,7 @@ author_profile: true
   </div>
   <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">
-      <img src="/images/Workflow_hierarchicalBayes.jpeg" alt="hierarchicalBayes" width="500"> <!-- Adjust width for larger figure -->
+      <img src="/images/Workflow_hierarchicalBayes.jpeg" alt="hierarchicalBayes" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
@@ -39,7 +39,7 @@ author_profile: true
   </div>
   <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
     <a href="https://www.sciencedirect.com/science/article/pii/S0098300423001231">
-      <img src="/images/Inteface_modeling.jpg" alt="Interface modeling" width="500"> <!-- Adjust width for larger figure -->
+      <img src="/images/Inteface_modeling.jpg" alt="Interface modeling" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
@@ -56,7 +56,7 @@ author_profile: true
   </div>
   <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
     <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">
-      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="500"> <!-- Adjust width for larger figure -->
+      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
