@@ -9,6 +9,24 @@ author_profile: true
 
 <!-- ## Stochastic subsurface geomodeling by integrating mulitple datasets and geological knowledge  -->
 
+## Machine learning-based inversion methods
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="width: 40%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
+    <p>
+      Bayesian inversion is commonly applied to quantify uncertainty of hydrological variables. However, Bayesian inversion is usually focused on spatial hydrological properties instead of hyperparameters or non-gridded physical global variables. This projects present a hierarchical Bayesian framework to quantify uncertainty of both global and spatial variables. We propose a machine learning-based inversion method to estimate the joint distribution of data and global variables directly without introducing a statistical likelihood. We propose a new local dimension reduction method: local principal component analysis (local PCA) to update large-scale spatial fields with local data more efficiently. With the help of machine learning and efficient dimension reduction, the inversion becomes approachable for high-resolution hydrologic models. 
+    </p>
+    <p> <!-- Add this for line spacing -->
+      Paper: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">Wang et al., Water Resources Research, 2022</a>
+    </p>
+  </div>
+  <div style="width: 60%;"> <!-- Set width to 60% for the figure -->
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">
+      <img src="/images/Workflow_hierarchicalBayes.jpg" alt="hierarchicalBayes" width="500"> <!-- Adjust width for larger figure -->
+    </a>
+  </div>
+</div>
+
+
 ## Data-knowledge-driven geological interfaces modeling
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 40%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
@@ -54,15 +72,7 @@ author_profile: true
 Paper: 
 [When physical modeling is not availbel]
 Paper:
-[Hier]
-Paper:
-[Uncertainty of subsurface interfaces: An implicit]
-Paper:
 
-
-## Previous Research 
-[Geophysics]
-Selected paper: -->
 
 
 ## General research interests
