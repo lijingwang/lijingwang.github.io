@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 # Model-data integration in hydrology
@@ -20,23 +20,8 @@ author_profile: true
 </div>
 
 
-workflow for iteratively labeling new data using active learning and
-deep ensembles
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1;">
-    **Active learning to iteratively label new geophysical data**
-
-    Seismic interpretation plays an essential role in locating subsurface horizons and understanding geological formations. This project investigates how to use semi-supervised segmentation to improve horizon predictions, even if we have only a few labeled horizons. An active learning framework is also proposed to label the most uncertain unlabeled sections, given the uncertainty estimation using deep ensembles. We believe our work helps geophysicists reduce the amount of labeling effort and achieve higher facies classification accuracy with the same amount of labeling work.
-
-    Paper: [Wang et al., Geophysics, 2023](https://library.seg.org/doi/abs/10.1190/geo2021-0365.1)
-  </div>
-  <div style="flex: 2; margin-right: 10px;">
-    <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="200">
-  </div>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; font-size: 14px;"> <!-- Adjust font size as needed -->
+  <div style="flex: 1; font-size: 14px; text-align: left;"> <!-- Adjust font size as needed -->
     <strong>Active learning to iteratively label new geophysical data</strong> <!-- Use strong instead of double asterisks for bold -->
     <p>
       Seismic interpretation plays an essential role in locating subsurface horizons and understanding geological formations. This project investigates how to use semi-supervised segmentation to improve horizon predictions, even if we have only a few labeled horizons. An active learning framework is also proposed to label the most uncertain unlabeled sections, given the uncertainty estimation using deep ensembles. We believe our work helps geophysicists reduce the amount of labeling effort and achieve higher facies classification accuracy with the same amount of labeling work.
@@ -45,12 +30,13 @@ deep ensembles
       Paper: <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">Wang et al., Geophysics, 2023</a>
     </p>
   </div>
-  <div style="flex: 2; margin-right: 10px;">
+  <div style="flex: 2; margin-right: 10px; text-align: right;">
     <a href="https://library.seg.org/doi/abs/10.1190/geo2021-0365.1">
-      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="400"> <!-- Adjust width for larger figure -->
+      <img src="/images/Active_Learning.jpg" alt="Geophysics Active Learning" width="250"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
+
 
 
 <!-- ## Current Research
