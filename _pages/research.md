@@ -9,58 +9,55 @@ author_profile: true
 
 
 ## Uncertainty quantification for mountainous watersheds
-
+- Study site: East River, Colorado, United States
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
       This project studys the impacts of uncertain factors, which range from bedrock to canopy to climate disturbances, within diverse floodplains and hillslopes situated in mountainous watersheds. We leverage advanced modeling, machine learning and decision science to learn the importance of underlying factors, ultimately enhancing our ability to quantify the uncertainty of both water quantity and quality in the near future. 
     </p>
   </div>
-  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+      Papers are in preparation. 
+  <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed, by Professor Kate Maher at Stanford University</figcaption>
-    </a>
   </div>
 </div>
 
 
 ## Surrogate modeling for process-based modeling
+- Study site: Savannah River Site, South Carolina, United States
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      Bayesian inversion is commonly applied to quantify uncertainty of hydrological variables. However, Bayesian inversion is usually focused on spatial hydrological properties instead of hyperparameters or non-gridded physical global variables. This project presents a hierarchical Bayesian framework to quantify uncertainty of both global and spatial variables. We propose a machine learning-based inversion method to estimate the joint distribution of data and global variables directly without introducing a statistical likelihood. We propose a new local dimension reduction method: local principal component analysis (local PCA) to update large-scale spatial fields with local data more efficiently. With the help of machine learning and efficient dimension reduction, the inversion becomes approachable for high-resolution hydrologic models. 
+      Understanding the climate impact on groundwater contamination requires us to quantify the uncertainty from both subsurface and climate properties. Doing so requires fast and accurate numerical simulations. We address the computational cost challenge for numerical models using a physics-informed neural network, where we combine the U-Net enhanced Fourier Neural Operator (U-FNO) with the physics-informed loss functions. 
+      We demonstrate our surrogate modeling approach at one testbed: Savannah River Site (SRS) F-Area. The faster surrogate model can help us assess the spatiotemporal variations of groundwater contamination under uncertain climate disturbances more efficiently. The ultimate goal is to provide decision solutions for contaminated sites monitoring. 
     </p>
     <p> <!-- Add this for line spacing -->
-      Conference proceedings: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">Wang et al., Water Resources Research, 2022</a>
+      Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a>
       Journal paper is under review. 
     </p>
   </div>
-  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">
-      <img src="/images/Workflow_hierarchicalBayes.jpeg" alt="hierarchicalBayes" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
+  <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
+    <a href="https://arxiv.org/abs/2211.10884">
+      <img src="/images/Digitaltwin.png" alt="digitaltwin" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
 
 
 ## Statistical modeling as the alternative for process-based modeling
-<!-- - of 3D redox architecture using geophysical survey and redox borehole measurements
-
-Study site: Jutland, Denmark
-- Statistical modeling/machine learning when physics-based models are unknown 
- -->
+- Study site: Jutland, Denmark
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      Bayesian inversion is commonly applied to quantify uncertainty of hydrological variables. However, Bayesian inversion is usually focused on spatial hydrological properties instead of hyperparameters or non-gridded physical global variables. This project presents a hierarchical Bayesian framework to quantify uncertainty of both global and spatial variables. We propose a machine learning-based inversion method to estimate the joint distribution of data and global variables directly without introducing a statistical likelihood. We propose a new local dimension reduction method: local principal component analysis (local PCA) to update large-scale spatial fields with local data more efficiently. With the help of machine learning and efficient dimension reduction, the inversion becomes approachable for high-resolution hydrologic models. 
-    </p>
-    <p> <!-- Add this for line spacing -->
+      Agricultural nitrate pollutants infiltrate into the subsurface and contaminate groundwater. The redox environment in the subsurface is important for the natural removal of nitrate by denitrification. However, the redox structure modeling in 3D requires additional assumptions and the process-based modeling is difficult to formulate and to solve. This project combines the geophysical survey: towed transient electromagnetic resistivity (tTEM) and redox boreholes to model 3D redox architecture stochastically using statistical learning, geostatistics and local inversion methods. This statistical learning framework also provides important resistivity structures for domain experts to understand what controls the redox conditions. The highly accurate redox architecture supports a better agricultural regulation decision. 
+    <p>
       Paper: <a href="https://link.springer.com/article/10.1007/s10040-023-02640-7">Wang et al., Hydrogeology Journal, 2023</a>
     </p>
   </div>
-  <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+  <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
     <a href="https://link.springer.com/article/10.1007/s10040-023-02640-7">
-      <img src="/images/Workflow_hierarchicalBayes.jpeg" alt="Denmark" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
+      <img src="/images/Denmark.png" alt="Denmark" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
     </a>
   </div>
 </div>
@@ -85,6 +82,8 @@ Study site: Jutland, Denmark
 
 
 ## Data-knowledge-driven geological interfaces modeling
+- Study site: Greenland and South Australia, Australia
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
