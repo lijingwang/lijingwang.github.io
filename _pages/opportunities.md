@@ -56,6 +56,7 @@ Note that you might not be able to find me in the application system as your sug
 
 - [How to be a successful PhD student](https://static1.squarespace.com/static/54b9bb6fe4b07b4a7d145b55/t/557adbffe4b08cdd585d48c2/1434115071095/2011-HowtodoaPHD.pdf), by Professor Cin-Ty Lee at Rice University
 
+- [Giving Shape to a Meaningful and Fulfilling Career in Science: Some No-Nonsense Advice](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023CN000221), by Professor Kamini Singha at Colorado School of Mines
 
 ### About UConn and UConn Earth Sciences
 
