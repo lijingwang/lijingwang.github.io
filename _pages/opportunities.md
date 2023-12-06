@@ -21,23 +21,13 @@ please feel free to reach out to me directly: lijing.wang AT uconn.edu, with you
 
 ### Virtual Open House for UConn Earth Sciences Graduate Studies, Dec 18, 2023
 
-Hosted by Professor William Ouimet
-
-https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc47eb331dcfb0612b45737b2db6ee8ab
+[Virtual Meeting Link](https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc47eb331dcfb0612b45737b2db6ee8ab), hosted by Professor William Ouimet 
 
 Monday, December 18, 2023 9:30 AM | 2 hours 30 minutes | (UTC-05:00) Eastern Time (US & Canada)
 
-Meeting number: 2632 150 4839
+Meeting number: 2632 150 4839, Password: Xy6qMijXc95
 
-Password: Xy6qMijXc95
-
-Agenda: This is Virtual Earth Sciences Graduate Admissions Open House.
-
-We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event.
-
-Open House starts at 9:30 am.
-
-Program overview will begin at 10 am. 
+This is Virtual Earth Sciences Graduate Admissions Open House. We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event. Open House starts at 9:30 am. Program overview will begin at 10 am. 
 
 
 ### Desired qualifications
