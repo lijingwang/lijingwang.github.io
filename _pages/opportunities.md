@@ -19,6 +19,27 @@ If you are interested in water, climate and artificial intelligence (AI) in gene
 
 please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research interest/plan. Preliminary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
 
+### Virtual Open House for UConn Earth Sciences Graduate Studies, Dec 18, 2023
+
+Hosted by Professor William Ouimet
+
+https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc47eb331dcfb0612b45737b2db6ee8ab
+
+Monday, December 18, 2023 9:30 AM | 2 hours 30 minutes | (UTC-05:00) Eastern Time (US & Canada)
+
+Meeting number: 2632 150 4839
+
+Password: Xy6qMijXc95
+
+Agenda: This is Virtual Earth Sciences Graduate Admissions Open House.
+
+We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event.
+
+Open House starts at 9:30 am.
+
+Program overview will begin at 10 am. 
+
+
 ### Desired qualifications
 
 - M.S. or B.S. degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.

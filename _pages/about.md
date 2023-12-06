@@ -13,8 +13,8 @@ I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory 
 **I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. Please get more information in the [Opportunities](https://lijingwang.github.io/opportunities/) tab.**
 
 ### Education
-- Ph.D.: Geological Sciences at Stanford University, minor in Computer Science
-- B.S.: Space Physics and Applied Mathematics at Peking University
+- Ph.D.: Geological Sciences at Stanford University, minor in Computer Science (2023)
+- B.S.: Space Physics and Applied Mathematics at Peking University (2017)
 
 <figure>
    <img src="/images/Lijing_tTEM.jpg" alt="Lijing tTEM at Denmark">
