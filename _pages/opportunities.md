@@ -19,7 +19,7 @@ If you are interested in water, climate and artificial intelligence (AI) in gene
 
 please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research interest/plan. Preliminary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
 
-### Virtual Open House for UConn Earth Sciences Graduate Studies, Dec 18, 2023
+<!-- ### Virtual Open House for UConn Earth Sciences Graduate Studies, Dec 18, 2023
 
 [Virtual Meeting Link](https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc47eb331dcfb0612b45737b2db6ee8ab), hosted by Professor William Ouimet 
 
@@ -27,7 +27,7 @@ Monday, December 18, 2023 9:30 AM | 2 hours 30 minutes | (UTC-05:00) Eastern Tim
 
 Meeting number: 2632 150 4839, Password: Xy6qMijXc95
 
-This is Virtual Earth Sciences Graduate Admissions Open House. We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event. Open House starts at 9:30 am. Program overview will begin at 10 am. 
+This is Virtual Earth Sciences Graduate Admissions Open House. We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event. Open House starts at 9:30 am. Program overview will begin at 10 am.  -->
 
 
 ### Desired qualifications
@@ -49,6 +49,8 @@ However, technical skills and publications are not required to join the group as
 Graduate students in UConn Earth Sciences will receive funding through research and teaching assistantships. To be considered for full funding for admission in Fall 2024, please apply through the [UConn Graduate School Website](https://grad.uconn.edu/admissions/apply-to-uconn/) by clicking *Apply Now* before January 10th, 2024. Students will receive continuous stipend support starting at ~$27,000 per 9-months with the possibility of additional summer funding. Admission also includes tuition waiver, health insurance benefits, and funding for research related travel. We strongly encourage students from underrepresented groups in earth sciences to apply. 
 
 Note that you might not be able to find me in the application system as your suggested advisor because I will join in Fall 2024. Don't worry, please put your interested advisor(s) in your personal essay and send me an email (lijing.wang AT uconn.edu) once you have submitted the application. Thank you! Update Oct 2023: I should be in the graduate application system and you can find me there! 
+
+There will be Geology or Geophysics concentration listed in the application system. When you get the degree, this concentration name will be listed. However, you can always change the concentration after you join our department. 
 
 **Key Components**
 
