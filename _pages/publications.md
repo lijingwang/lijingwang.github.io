@@ -15,6 +15,8 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 [12] A. Meray, **L. Wang**, T. Kurihana, I. Mastilovic, S. Praveen, Z. Xu, M. Memarzadeh, A. Lavin, H. Wainright [Physics-informed surrogate modeling for supporting climate resilience at
 groundwater contamination sites](https://doi.org/10.1016/j.cageo.2023.105508), Computers & Geosciences, 2024
 
+Meray and Wang are co-first authors. 
+
 > 2023
 
 [11] **L. Wang**, Z. Yin, J. Caers, [Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview), Cambridge University Press, 2023
