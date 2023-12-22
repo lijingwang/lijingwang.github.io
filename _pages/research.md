@@ -43,7 +43,7 @@ author_profile: true
       Conference proceedings: <a href="https://arxiv.org/abs/2211.10884"> Wang et al., Machine Learning and the Physical Sciences workshop, NeurIPS 2022</a>
     </p>
     <p> 
-      Journal paper is under review. 
+      Journal paper: <a href="https://doi.org/10.1016/j.cageo.2023.105508">Meray&#42; and Wang&#42; et al., Computers & Geosciences, 2023</a>
     </p>
   </div>
   <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
