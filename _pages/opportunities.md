@@ -48,7 +48,7 @@ However, technical skills and publications are not required to join the group as
 
 Graduate students in UConn Earth Sciences will receive funding through research and teaching assistantships. To be considered for full funding for admission in Fall 2024, please apply through the [UConn Graduate School Website](https://grad.uconn.edu/admissions/apply-to-uconn/) by clicking *Apply Now* before January 10th, 2024. Students will receive continuous stipend support starting at ~$27,000 per 9-months with the possibility of additional summer funding. Admission also includes tuition waiver, health insurance benefits, and funding for research related travel. We strongly encourage students from underrepresented groups in earth sciences to apply. 
 
-Note that you might not be able to find me in the application system as your suggested advisor because I will join in Fall 2024. Don't worry, please put your interested advisor(s) in your personal essay and send me an email (lijing.wang AT uconn.edu) once you have submitted the application. Thank you! Update Oct 2023: I should be in the graduate application system and you can find me there! 
+Note that you might not be able to find me in the application system as your suggested advisor because I will join in Fall 2024. Don't worry, please put your interested advisor(s) in your personal essay and send me an email (lijing.wang AT uconn.edu) once you have submitted the application. Thank you! You can also include my name as the primary or secondary advisor.
 
 There will be Geology or Geophysics concentration listed in the application system. When you get the degree, this concentration name will be listed. However, you can always change the concentration after you join our department. 
 
