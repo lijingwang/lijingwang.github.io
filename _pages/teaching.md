@@ -20,6 +20,11 @@ author_profile: true
 
 - ERTH 4735/NRE 4135 Introduction to Ground Water Hydrogeology (Fall 2024)
 
+- Machine Learning in Geosciences, University of Texas at Arlington
+  - Guest Lecturer, Feb 2024
+  - Machine learning applications in geosciences
+  - Introduction to geostatistics 
+
 - Model Calibration in Hydrology
 	- Tutorial for Stanford Enviornmental Geochemistry Group, May 2023
 
