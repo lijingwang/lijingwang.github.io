@@ -5,7 +5,10 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-### I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. 
+~~ I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. ~~
+Fall 2024 applications are closed. We may have opportunities available for Fall 2025 and undergraduate researchers. Please stay tuned for updates! 
+
+### Fall 2024 opportunities: 
 
 If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
 
