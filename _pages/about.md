@@ -10,7 +10,9 @@ redirect_from:
 
 I'm Lijing, currently a Postdoc Fellow at Lawrence Berkeley National Laboratory (LBNL), working in the [Watershed Function SFA](https://watershed.lbl.gov/). I will be joining the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut as an Assistant Professor in Fall 2024, focusing on integrating modeling and data in hydrology. 
 
-~~I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. Please get more information in the [Opportunities](https://lijingwang.github.io/opportunities/) tab.~~ Fall 2024 applications are closed. We may have opportunities available for Fall 2025 and undergraduate researchers. Please stay tuned for updates! 
+~~I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. Please get more information in the [Opportunities](https://lijingwang.github.io/opportunities/) tab.~~ 
+
+Fall 2024 applications are closed. We may have opportunities available for Fall 2025 and undergraduate researchers. Please stay tuned for updates! 
 
 
 ### Education

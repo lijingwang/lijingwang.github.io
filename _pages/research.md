@@ -31,6 +31,10 @@ author_profile: true
   </div>
 </div>
 
+<!-- ## Temperature profiling to reveal hydrologic regimes (GW-SW interaction)
+- Study site: Savannah River Site, South Carolina, United States
+ -->
+
 
 ## Surrogate modeling for process-based modeling
 - Study site: Savannah River Site, South Carolina, United States
