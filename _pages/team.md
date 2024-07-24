@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Faculty
+---
 
 ## Lijing Wang
 ![Lijing Wang](https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Lijing_profile_old2.JPG)
