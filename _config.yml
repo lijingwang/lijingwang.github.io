@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lijing Wang"
 title_separator          : "-"
-name                     : &name "Lijing Wang"
+name                     : &name "UConn Model-Data Integration Hydro Lab"
 description              : &description "personal description"
 url                      : https://lijingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
