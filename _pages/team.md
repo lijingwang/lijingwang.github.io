@@ -21,11 +21,11 @@ redirect_from:
 ## Yeonju Kim (2024-)
 ![Yeonju Kim](https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Yeonju_Kim_2024.jpg)
 
-- **Education** 
+**Education** 
 
-M.S.: Seoul National University, South Korea, Department of Civil and Environmental Engineering (2023) \\ 
+- M.S.: Civil and Environmental Engineering at Seoul National University, South Korea (2023) \\ 
 
-B.E.: Yeungnam University, South Korea, Department of Civil Engineering (2021)
+- B.E.: Civil Engineering at Yeungnam University, South Korea(2021)
 
 
 
@@ -35,11 +35,11 @@ B.E.: Yeungnam University, South Korea, Department of Civil Engineering (2021)
 
 ![Victor Oladoja](https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Victor_Oladoja_2024.jpg)
 
-- **Education** 
+**Education** 
 
-M.S.: Geology at Kansas State University (2024) \\ 
+- M.S.: Geology at Kansas State University (2024) \\ 
 
-B.Tech.: Applied Geology at Federal University of Technology, Akure - Nigeria (2019)
+- B.Tech.: Applied Geology at Federal University of Technology, Akure, Nigeria (2019)
 
 
 
