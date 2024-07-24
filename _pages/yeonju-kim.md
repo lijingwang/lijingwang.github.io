@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Yeonju Kim (2024-)
+### Ph.D. Student, 2024 -
 
 <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Yeonju_Kim_2024.jpg" alt="Yeonju Kim" width="200"/>
 

@@ -20,13 +20,13 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-around; text-align: center;">
     <div>
-        <h3><a href="/yeonju-kim/">Yeonju Kim (2024-)</a></h3>
+        <h3><a href="/yeonju-kim/">Yeonju Kim</a></h3>
         <a href="/yeonju-kim/">
             <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Yeonju_Kim_2024.jpg" alt="Yeonju Kim" width="200"/>
         </a>
     </div>
     <div>
-        <h3><a href="/victor-oladoja/">Victor Oladoja (2024-)</a></h3>
+        <h3><a href="/victor-oladoja/">Victor Oladoja</a></h3>
         <a href="/victor-oladoja/">
             <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Victor_Oladoja_2024.jpg" alt="Victor Oladoja" width="200"/>
         </a>

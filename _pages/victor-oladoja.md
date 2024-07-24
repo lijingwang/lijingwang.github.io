@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Victor Oladoja (2024-)
+### Ph.D. Student, 2024 -
 
 <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Victor_Oladoja_2024.jpg" alt="Victor Oladoja" width="200"/>
 
