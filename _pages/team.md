@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: center;">
     <h2><a href="/lijing-wang/">Lijing Wang</a></h2>
-    <a href="/lijing-wang/">
+    <a href="/">
         <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Lijing_profile_old2.JPG" alt="Lijing Wang" width="200"/>
     </a>
 </div>

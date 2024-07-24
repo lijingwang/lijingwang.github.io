@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Yeonju Kim"
 permalink: /yeonju-kim/
+author_profile: false
+redirect_from:
+  - /resume
 ---
 
 ## Yeonju Kim (2024-)
@@ -10,12 +13,12 @@ permalink: /yeonju-kim/
 
 yeonju.kim@uconn.edu
 
+[LinkedIn](https://www.linkedin.com/in/iamkimyeonju/)
+
 **Education** 
 
-- M.S.: Civil and Environmental Engineering at Seoul National University, South Korea (2023) \\ 
+- M.S.: Civil and Environmental Engineering at Seoul National University, South Korea (2023) 
 - B.E.: Civil Engineering at Yeungnam University, South Korea (2021)
-
-**Website** [yeonjukim_website](https://www.linkedin.com/in/iamkimyeonju/)
 
 **Background**
 

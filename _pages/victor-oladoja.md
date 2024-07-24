@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Victor Oladoja"
 permalink: /victor-oladoja/
+author_profile: false
+redirect_from:
+  - /resume
 ---
 
 ## Victor Oladoja (2024-)
@@ -10,12 +13,12 @@ permalink: /victor-oladoja/
 
 victor.oladoja@uconn.edu
 
+[LinkedIn](https://www.linkedin.com/in/victoroladoja/)
+
 **Education** 
 
-- M.S.: Geology at Kansas State University (2024) \\ 
+- M.S.: Geology at Kansas State University (2024)
 - B.Tech.: Applied Geology at Federal University of Technology, Akure, Nigeria (2019)
-
-**Website** [victororadoja_website](https://www.linkedin.com/in/victoroladoja/) 
 
 **Background**
 
