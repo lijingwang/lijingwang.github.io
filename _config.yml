@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lijing Wang"
+title                    : "UConn Computational Hydrology Lab"
 title_separator          : "-"
 name                     : &name "UConn Computational Hydrology Lab"
 description              : &description "personal description"
