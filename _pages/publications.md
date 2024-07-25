@@ -12,6 +12,14 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 > 2024
 
+[16] T. Babey, Z. Perzan, S. Pierce, D.B. Rodgers, **L. Wang**, R. Carroll, J.R. Bargar, K. Boye, K. Maher, [Mountainous Floodplain Connectivity in Response to Hydrological Transitions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024WR037162), Water Resources Research, 2024
+
+[15] T. Kurihana, I. Mastilovic, **L. Wang**, A. Meray, S. Praveen, Z. Xu,  M. Memarzadeh, A. Lavin, H. Wainwright, [Identifying climate patterns using clustering autoencoder techniques](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-23-0035.1/AIES-D-23-0035.1.xml), Artificial Intelligence for the Earth Systems, 2024
+
+[14] X. Wei, Z. Yin, C. Scheidt, K. Darnell, **L. Wang**, J. Caers, [Constructing priors for geophysical inversions constrained by surface and borehole geochemistry](https://link.springer.com/article/10.1007/s10712-024-09843-x), Surveys in Geophysics, 2024
+
+[13] A. Ayoub, H. Wainwright, **L. Wang**, G. Sansavini, [An enhanced fourier neural operator surrogate for radioactive plume transport forecasting](https://link.springer.com/article/10.1007/s00477-024-02738-8), Stochastic Environmental Research and Risk Assessment, 2024. 
+
 [12] A. Meray, **L. Wang**, T. Kurihana, I. Mastilovic, S. Praveen, Z. Xu, M. Memarzadeh, A. Lavin, H. Wainright [Physics-informed surrogate modeling for supporting climate resilience at
 groundwater contamination sites](https://doi.org/10.1016/j.cageo.2023.105508), Computers & Geosciences, 2024
 
