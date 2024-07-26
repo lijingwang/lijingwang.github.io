@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lijing Wang"
-  avatar           : "Lijing_profile.JPG"
+  avatar           : "Lijing_profile_brick_background.JPG"
   bio              : "Postdoc Fellow at Lawrence Berkeley National Lab (LBNL) \nIncoming Assistant Professor at University of Connecticut"
   location         : "Berkeley, CA"
   employer         : 
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kWtChCQAAAAJ&hl=en"
-  email            : "lijingwang@lbl.gov"
+  email            : "lijingwang@lbl.gov, lijing.wang@uconn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
