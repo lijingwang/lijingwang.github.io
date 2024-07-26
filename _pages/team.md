@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: center;">
     <h2><a href="/">Lijing Wang</a></h2>
     <a href="https://lijingwang.github.io/files/Lijing_CV_Jun28_2024.pdf">
-        <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Lijing_profile_brick_background.jpg" alt="Lijing Wang" width="200"/>
+        <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Lijing_profile_brick_background2.jpg" alt="Lijing Wang" width="200"/>
     </a>
     <p><a href="https://lijingwang.github.io/files/Lijing_CV_Jun28_2024.pdf">Download Lijing's Full CV Here </a></p>
 </div>
