@@ -18,7 +18,7 @@ author_profile: true
   <img src="/images/DS4GS_cover.png" alt="DS4GS_cover" style="max-width: 500px; display: block; margin: 0 auto;">
   <p style="text-align: center;">Book cover: Data Science for the Geosciences</p>
 
-- ERTH 4735/NRE 4135 Introduction to Ground Water Hydrogeology (Fall 2024)
+- ERTH 4735/NRE 4135 Introduction to Groundwater Hydrology (Fall 2024)
 
 - Machine Learning in Geosciences, University of Texas at Arlington
   - Guest Lecturer, Feb 2024
