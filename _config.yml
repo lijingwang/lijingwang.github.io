@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UConn Computational Hydrology Lab"
+title                    : "UConn Model-Data Integration Hydrology Lab"
 title_separator          : "-"
-name                     : &name "UConn Computational Hydrology Lab"
+name                     : &name "UConn Model-Data Integration Hydrology Lab"
 description              : &description "personal description"
 url                      : https://lijingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lijing Wang"
   avatar           : "Lijing_profile_brick_background.jpg"
-  bio              : "Postdoc Fellow at Lawrence Berkeley National Lab (LBNL) \nIncoming Assistant Professor at University of Connecticut"
-  location         : "Berkeley, CA"
+  bio              : "Assistant Professor at University of Connecticut"
+  location         : "Storrs, CT"
   employer         : 
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=kWtChCQAAAAJ&hl=en"
-  email            : "lijingwang@lbl.gov, lijing.wang@uconn.edu"
+  email            : "lijing.wang@uconn.edu, lijingwang@lbl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  stanfordprofile  : "https://profiles.stanford.edu/lijing-wang"
+  #stanfordprofile  : "https://profiles.stanford.edu/lijing-wang"
 
 
 # Reading Files
