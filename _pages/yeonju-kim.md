@@ -22,4 +22,4 @@ yeonju.kim@uconn.edu
 
 **Background**
 
-I am currently a Ph.D. student in the Department of Earth Sciences at UConn. I earned my B.S. and M.S. in civil engineering with an emphasis on water resources management. My research has centered on optimization for decision-making processes and streamflow prediction using data science techniques. I joined the Department of Earth Science to integrate hydrology with geography, earth science, and related fields. 
+I am currently a Ph.D. student in the Department of Earth Sciences at UConn. I earned my B.S. and M.S. in civil engineering with an emphasis on water resources management. My research has centered on optimization for decision-making processes and streamflow prediction using data science techniques. I joined the Department of Earth Sciences to integrate hydrology with remote sensing, earth science, and related fields. 

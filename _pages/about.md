@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Lijing, an assistant professor in the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut, focusing on integrating modeling and data in hydrology. 
-
-
-~~I am looking for 1-2 motivated Ph.D. students to join our group at UConn starting in Fall 2024. Please get more information in the [Opportunities](https://lijingwang.github.io/opportunities/) tab.~~ 
-
-Fall 2024 applications are closed. We may have opportunities available for Fall 2025 applicants and undergraduate researchers. Please stay tuned for updates or email me if you would like to be considered in future projects!
+I'm Lijing, an assistant professor in the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut, focusing on integrating modeling and data in hydrology. If you are interested in working with me, please feel free to email me any time. 
 
 
 ### Education

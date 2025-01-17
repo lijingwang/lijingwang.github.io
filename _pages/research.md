@@ -10,7 +10,7 @@ author_profile: true
 <div style="text-align: center;">
   <figure style="max-width: 500px; margin-left: auto; margin-right: auto;">
     <img src="/images/model_data.png" alt="model_data">
-    <figcaption>A loop of model-data integration for hydrology, including model calibration and modeling informed data collection.</figcaption>
+    <figcaption>A loop of model-data integration for hydrology, including model calibration and model-informed data collection.</figcaption>
   </figure>
 </div>
 
@@ -19,7 +19,7 @@ author_profile: true
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      This project studys the impacts of uncertain factors, which range from bedrock to canopy to climate disturbances, within diverse floodplains and hillslopes situated in mountainous watersheds. We leverage advanced modeling, machine learning and decision science to learn the importance of underlying factors, ultimately enhancing our ability to quantify the uncertainty of both water quantity and quality in the near future. 
+      This project studys the impacts of uncertain factors, which range from bedrock to canopy to climate disturbances, within diverse floodplains and hillslopes situated in mountainous watersheds. We leverage advanced modeling, machine learning and decision science to learn the importance of underlying factors, ultimately enhancing our ability to quantify the uncertainty of both water quantity and quality under future climate disturbances. 
     </p>
     <p>
       Papers are in preparation. 
@@ -77,11 +77,11 @@ author_profile: true
 </div>
 
 
-## Machine learning-based inversion methods
+## Machine learning-based model calibration methods
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
-      Bayesian inversion is commonly applied to quantify uncertainty of hydrological variables. However, Bayesian inversion is usually focused on spatial hydrological properties instead of hyperparameters or non-gridded physical global variables. This project presents a hierarchical Bayesian framework to quantify uncertainty of both global and spatial variables. We propose a machine learning-based inversion method to estimate the joint distribution of data and global variables directly without introducing a statistical likelihood. We propose a new local dimension reduction method: local principal component analysis (local PCA) to update large-scale spatial fields with local data more efficiently. With the help of machine learning and efficient dimension reduction, the inversion becomes approachable for high-resolution hydrologic models. 
+      Bayesian inference is commonly applied to quantify uncertainty of hydrological variables. However, Bayesian inference is usually focused on spatial hydrological properties instead of hyperparameters or non-gridded physical global variables. This project presents a hierarchical Bayesian framework to quantify uncertainty of both global and spatial variables. We propose a machine learning-based model calibration method to estimate the joint distribution of data and global variables directly without introducing a statistical likelihood. We propose a new local dimension reduction method: local principal component analysis (local PCA) to update large-scale spatial fields with local data more efficiently. With the help of machine learning and efficient dimension reduction, the model calibration becomes approachable for high-resolution hydrologic models. 
     </p>
     <p> <!-- Add this for line spacing -->
       Paper: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021WR031610">Wang et al., Water Resources Research, 2022</a>

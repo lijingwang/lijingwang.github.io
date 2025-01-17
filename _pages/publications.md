@@ -12,6 +12,8 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 > 2024
 
+[17] C. Scheidt, L. Mathieu, Z. Yin, **L. Wang**, J. Caers, [Masked Autoregressive Flow for Geochemical Anomaly Detection with Application to Li--Cs--Ta Pegmatites Exploration of the Superior Craton, Canada](https://link.springer.com/article/10.1007/s11053-024-10409-2), Natural Resources Research, 2024
+
 [16] T. Babey, Z. Perzan, S. Pierce, D.B. Rodgers, **L. Wang**, R. Carroll, J.R. Bargar, K. Boye, K. Maher, [Mountainous Floodplain Connectivity in Response to Hydrological Transitions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024WR037162), Water Resources Research, 2024
 
 [15] T. Kurihana, I. Mastilovic, **L. Wang**, A. Meray, S. Praveen, Z. Xu,  M. Memarzadeh, A. Lavin, H. Wainwright, [Identifying climate patterns using clustering autoencoder techniques](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-23-0035.1/AIES-D-23-0035.1.xml), Artificial Intelligence for the Earth Systems, 2024

@@ -7,6 +7,8 @@ author_profile: true
 
 # Teaching
 
+- ERTH 4735/NRE 4135 Introduction to Groundwater Hydrology (Fall 2024)
+
 - [Data Science for the Geosciences, Cambridge University Press, 2023](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview)
 	- An accessible textbook providing data science foundations to address earth science questions using real-world case studies.
 	- Step-by-step instruction for each method, allowing students to easily put their skills into practice
@@ -18,7 +20,6 @@ author_profile: true
   <img src="/images/DS4GS_cover.png" alt="DS4GS_cover" style="max-width: 500px; display: block; margin: 0 auto;">
   <p style="text-align: center;">Book cover: Data Science for the Geosciences</p>
 
-- ERTH 4735/NRE 4135 Introduction to Groundwater Hydrology (Fall 2024)
 
 - Machine Learning in Geosciences, University of Texas at Arlington
   - Guest Lecturer, Feb 2024
