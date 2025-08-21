@@ -10,9 +10,26 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 ### Peer-reviewed journal papers and books
 
-> 2024
+> Submitted
 
-[17] C. Scheidt, L. Mathieu, Z. Yin, **L. Wang**, J. Caers, [Masked Autoregressive Flow for Geochemical Anomaly Detection with Application to Li--Cs--Ta Pegmatites Exploration of the Superior Craton, Canada](https://link.springer.com/article/10.1007/s11053-024-10409-2), Natural Resources Research, 2024
+[20] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (In Review) 
+
+[19] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach, Water Resources Research (In Review) 
+
+[18] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration, Water Resources Research (In Review) 
+
+
+> 2025
+
+[18] Z. Yin,  A. Miltenberger, M. Topinka, L. Wang, T. Mukerji, J. Caers, [Quantifying model misrepresentation in geophysical inversion for critical mineral exploration](https://ieeexplore.ieee.org/abstract/document/10884603), IEEE Transactions on Geoscience and Remote Sensing, 2025
+
+
+[17] C. Scheidt, L. Mathieu, Z. Yin, **L. Wang**, J. Caers, [Masked Autoregressive Flow for Geochemical Anomaly Detection with Application to Li--Cs--Ta Pegmatites Exploration of the Superior Craton, Canada](https://link.springer.com/article/10.1007/s11053-024-10409-2), Natural Resources Research, 2025
+
+
+
+
+> 2024
 
 [16] T. Babey, Z. Perzan, S. Pierce, D.B. Rodgers, **L. Wang**, R. Carroll, J.R. Bargar, K. Boye, K. Maher, [Mountainous Floodplain Connectivity in Response to Hydrological Transitions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024WR037162), Water Resources Research, 2024
 

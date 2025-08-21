@@ -14,29 +14,28 @@ author_profile: true
   </figure>
 </div>
 
-## Uncertainty quantification for mountainous watersheds
-- Study site: East River, Colorado, United States
+## Current funded research
+### Groundwater-surface water interactions under hydrologic extremes
+- Study site: East River, Colorado; Albion Basin, Utah; Sagehen Experimental Forest, California
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
-    <p>
-      This project studys the impacts of uncertain factors, which range from bedrock to canopy to climate disturbances, within diverse floodplains and hillslopes situated in mountainous watersheds. We leverage advanced modeling, machine learning and decision science to learn the importance of underlying factors, ultimately enhancing our ability to quantify the uncertainty of both water quantity and quality under future climate disturbances. 
+    <p> 
+      This project investigates how groundwater sustains streamflow to hydrologic extremes in mountain watersheds. By integrating field observations of stream discharge, groundwater level and water age with an iteratively calibrated, process-based hydrologic model, the study will assess how subsurface structure and snowmelt heterogeneity shape streamflow magnitude, source, and timing. The results will improve predictions of mountain streamflow under future extreme projections. 
     </p>
     <p>
-      Papers are in preparation. 
+      One manuscript is in review. 
     </p>
-  </div>   
-  <div style="width: 50%; margin-top: 0px;"> <!-- Set width to 60% for the figure -->
-      <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
-      <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
-  </div>
+    <p>
+     Sponsor: NSF Water, Landscape, and Critical Zone Processes (WaLCZ)
+     Project Duration: 2025-2028
+     PIs: Sara Warix (University of Utah), Lijing Wang (University of Connecticut), Laura Rademacher (University of the Pacific)
+     People supported: Victor Oladoja (Ph.D., 2024 - )
 </div>
 
-<!-- ## Temperature profiling to reveal hydrologic regimes (GW-SW interaction)
-- Study site: Savannah River Site, South Carolina, United States
- -->
 
 
-## Surrogate modeling for process-based modeling
+## Previous research 
+### Surrogate modeling for process-based modeling
 - Study site: Savannah River Site, South Carolina, United States
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
@@ -58,7 +57,7 @@ author_profile: true
 </div>
 
 
-## Statistical modeling as the alternative to process-based modeling
+### Statistical modeling as the alternative to process-based modeling
 - Study site: Jutland, Denmark
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
@@ -77,7 +76,7 @@ author_profile: true
 </div>
 
 
-## Machine learning-based model calibration methods
+### Machine learning-based model calibration methods
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>
@@ -95,7 +94,7 @@ author_profile: true
 </div>
 
 
-## Data-knowledge-driven geological interfaces modeling
+### Data-knowledge-driven geological interfaces modeling
 - Study site: Greenland and South Australia, Australia
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
@@ -114,7 +113,7 @@ author_profile: true
   </div>
 </div>
 
-## Active learning to iteratively label new geophysical data
+### Active learning to iteratively label new geophysical data
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
     <p>

@@ -9,7 +9,7 @@ Please stay tuned for any open opportunities in the future! Thank you!
 
 -------------
 
-Fall 2024 applications are closed. We may have opportunities available for Fall 2025 applicants and undergraduate researchers. Please stay tuned for updates or email me if you would like to be considered in future projects! 
+Fall 2024 applications are closed. We may have opportunities available for Fall 2026 applicants and undergraduate researchers. Please stay tuned for updates or email me if you would like to be considered in future projects! 
 
 ### Fall 2024 opportunities: 
 
