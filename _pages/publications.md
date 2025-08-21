@@ -21,7 +21,7 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 > 2025
 
-[18] Z. Yin,  A. Miltenberger, M. Topinka, L. Wang, T. Mukerji, J. Caers, [Quantifying model misrepresentation in geophysical inversion for critical mineral exploration](https://ieeexplore.ieee.org/abstract/document/10884603), IEEE Transactions on Geoscience and Remote Sensing, 2025
+[18] Z. Yin,  A. Miltenberger, M. Topinka, **L. Wang**, T. Mukerji, J. Caers, [Quantifying model misrepresentation in geophysical inversion for critical mineral exploration](https://ieeexplore.ieee.org/abstract/document/10884603), IEEE Transactions on Geoscience and Remote Sensing, 2025
 
 
 [17] C. Scheidt, L. Mathieu, Z. Yin, **L. Wang**, J. Caers, [Masked Autoregressive Flow for Geochemical Anomaly Detection with Application to Li--Cs--Ta Pegmatites Exploration of the Superior Craton, Canada](https://link.springer.com/article/10.1007/s11053-024-10409-2), Natural Resources Research, 2025
