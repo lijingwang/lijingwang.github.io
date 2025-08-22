@@ -12,11 +12,11 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 > Submitted
 
-[20] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (In Review) 
+[21] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (In Review) 
 
-[19] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach, Water Resources Research (In Review) 
+[20] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach, Water Resources Research (In Review) 
 
-[18] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration, Water Resources Research (In Review) 
+[19] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration, Water Resources Research (In Review) 
 
 
 > 2025
