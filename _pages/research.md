@@ -26,16 +26,17 @@ author_profile: true
       One manuscript is in review. 
     </p>
     <p>
-     Sponsor: NSF Water, Landscape, and Critical Zone Processes (WaLCZ)
-     Project Duration: 2025-2028
-     PIs: Sara Warix (University of Utah), Lijing Wang (University of Connecticut), Laura Rademacher (University of the Pacific)
-     People supported: Victor Oladoja (Ph.D., 2024 - )
+      <strong>Sponsor:</strong> NSF Water, Landscape, and Critical Zone Processes (WaLCZ)<br>
+      <strong>Duration:</strong> 2025–2028<br>
+      <strong>PIs:</strong> Sara Warix (University of Utah), Lijing Wang (University of Connecticut), 
+      Laura Rademacher (University of the Pacific)<br>
+      <strong>Supported researcher:</strong> Victor Oladoja (Ph.D., 2024 – )
     </p>
-    <div style="width: 30%; margin-top: 30px;"> <!-- Set width to 60% for the figure -->
+  </div>
+    <div style="width: 50%; margin-top: 30px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
-  </div>
-  </div>
+    </div>
 </div>
 
 
