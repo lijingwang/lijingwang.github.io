@@ -33,7 +33,7 @@ author_profile: true
       <strong>Supported researcher:</strong> Victor Oladoja (Ph.D., 2024 – )
     </p>
   </div>
-    <div style="width: 50%; margin-top: 30px;"> <!-- Set width to 60% for the figure -->
+    <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
     </div>
