@@ -35,6 +35,7 @@ author_profile: true
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
   </div>
+  </div>
 </div>
 
 
