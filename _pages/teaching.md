@@ -9,7 +9,7 @@ author_profile: true
 
 - ERTH 4735/5735 NRE 4135 Introduction to Groundwater Hydrology (Fall 2024, Fall 2025)
 
-- ERTH 4745/5720 Machine Learning and Numerical Modeling in Hydrology (Spring 2026)
+- ERTH 4750/5750 Machine Learning and Numerical Modeling in Hydrology (Spring 2026)
 
 - [Data Science for the Geosciences, Cambridge University Press, 2023](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview)
 	- An accessible textbook providing data science foundations to address earth science questions using real-world case studies.
