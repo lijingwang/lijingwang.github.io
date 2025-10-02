@@ -12,7 +12,7 @@ redirect_from:
     <a href="https://lijingwang.github.io/files/Lijing_CV_Sep21_2025.pdf">
         <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Lijing_profile_brick_background.jpg" alt="Lijing Wang" width="200"/>
     </a>
-    <p><a href="https://lijingwang.github.io/files/Lijing_CV_Sep21_2025.pdf">Download Lijing's Full CV Here </a></p>
+    <p><a href="https://lijingwang.github.io/files/Lijing_CV_Oct2_2025.pdf">Download Lijing's Full CV Here </a></p>
 </div>
 
 

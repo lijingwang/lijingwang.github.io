@@ -14,12 +14,14 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 [21] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (In Review) 
 
-[20] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach, Water Resources Research (In Review) 
+
 
 
 > 2025
 
-[19] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration, Water Resources Research, 2025 (Accepted) 
+[20] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach, Water Resources Research, 2025 (Accepted)
+
+[19] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, [Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration](https://doi.org/10.1029/2024WR039192), Water Resources Research, 2025
 
 [18] Z. Yin,  A. Miltenberger, M. Topinka, **L. Wang**, T. Mukerji, J. Caers, [Quantifying model misrepresentation in geophysical inversion for critical mineral exploration](https://ieeexplore.ieee.org/abstract/document/10884603), IEEE Transactions on Geoscience and Remote Sensing, 2025
 
