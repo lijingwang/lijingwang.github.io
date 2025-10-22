@@ -23,7 +23,7 @@ author_profile: true
       This project investigates how groundwater sustains streamflow to hydrologic extremes in mountain watersheds. By integrating field observations of stream discharge, groundwater level and water age with an iteratively calibrated, process-based hydrologic model, the study will assess how subsurface structure and snowmelt heterogeneity shape streamflow magnitude, source, and timing. The results will improve predictions of mountain streamflow under future extreme projections. 
     </p>
     <p>
-      One manuscript is in review. 
+      Journal paper: <a href="https://doi.org/10.1029/2025WR040651">Wang et al., Water Resources Research, 2025b</a>
     </p>
     <p>
       <strong>Sponsor:</strong> NSF Water, Landscape, and Critical Zone Processes (WaLCZ)<br>
@@ -38,6 +38,7 @@ author_profile: true
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
     </div>
 </div>
+
 
 
 
