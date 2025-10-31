@@ -28,7 +28,7 @@ author_profile: true
       Journal paper: <a href="https://doi.org/10.1029/2024WR039192">Wang et al., Water Resources Research, 2025a</a>
     </p>
   </div>
-    <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+    <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/BeaverDam_UConnForest_Spring.JPG" alt="BeaverDam" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>Beaver-created pond/wetland in UConn Forest, Spring 2025</figcaption>
     </div>

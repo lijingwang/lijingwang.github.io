@@ -23,6 +23,10 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 [19] **L. Wang**, T. Babey, Z. Perzan, S. Pierce, M. Briggs, K. Boye, K. Maher, [Quantifying Groundwater Response and Uncertainty in Beaver-influenced Mountainous Floodplains using Machine Learning-based Model Calibration](https://doi.org/10.1029/2024WR039192), Water Resources Research, 2025
 
+*Media coverage:*  
+[UConn Today](https://today.uconn.edu/2025/10/beavers-impact-ecosystems-above-and-below-ground/), [AGU Editor’s Highlight](https://eos.org/editor-highlights/beavers-are-not-concerned-about-groundwater)
+
+
 [18] Z. Yin,  A. Miltenberger, M. Topinka, **L. Wang**, T. Mukerji, J. Caers, [Quantifying model misrepresentation in geophysical inversion for critical mineral exploration](https://ieeexplore.ieee.org/abstract/document/10884603), IEEE Transactions on Geoscience and Remote Sensing, 2025
 
 
