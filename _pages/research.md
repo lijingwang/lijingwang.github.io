@@ -17,7 +17,7 @@ author_profile: true
 ## Current research
 
 
-### How beaver-created ecosystems impact hydrologic connectivity and groundwater recharge. 
+### Hydrologic connectivity and groundwater recharge in beaver-created ecosystems
 - Study site: UConn Forest, Connecticut; Slate River, Colorado
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
