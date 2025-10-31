@@ -14,7 +14,28 @@ author_profile: true
   </figure>
 </div>
 
-## Current funded research
+## Current research
+
+
+### How beaver-created ecosystems impact hydrologic connectivity and groundwater recharge. 
+- Study site: UConn Forest, Connecticut; Slate River, Colorado
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
+    <p> 
+      This project investigates how the increasing prevalence of beaver dams alters hydrologic connectivity and groundwater recharge within river corridors. We will combine field observations of stream discharge, groundwater levels, and vertical fluxes up- and down-stream of beaver dams, as well as in nearby stream reaches, with a process-based hydrologic model. The results will improve the evaluation of the cumulative effects of beaver-created ecosystems on groundwater dynamics and comprehensively quantify changes in water quantity and potentially water quality. 
+    </p>
+    <p>
+      Journal paper: <a href="https://doi.org/10.1029/2024WR039192">Wang et al., Water Resources Research, 2025a</a>
+    </p>
+  </div>
+    <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+      <img src="/images/BeaverDam_UConnForest_Spring.JPG" alt="BeaverDam" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
+      <figcaption>Beaver-created pond/wetland in UConn Forest, Spring 2025</figcaption>
+    </div>
+</div>
+
+
+
 ### Groundwater-surface water interactions under hydrologic extremes
 - Study site: East River, Colorado; Albion Basin, Utah; Sagehen Experimental Forest, California
 <div style="display: flex; flex-direction: row; justify-content: space-between;">

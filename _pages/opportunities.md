@@ -5,11 +5,15 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-Please stay tuned for any open opportunities in the future! Thank you! 
+
+I am planning to recruit one master student for Fall 2026. If you are interested in groundwater-surface water interactions, and have experience/are willing to learn Python, hydrologic modeling and machine learning methods, please reach out! 
+
 
 -------------
 
-Fall 2024 applications are closed. We may have opportunities available for Fall 2026 applicants and undergraduate researchers. Please stay tuned for updates or email me if you would like to be considered in future projects! 
+Fall 2024 applications are closed. 
+
+
 
 ### Fall 2024 opportunities: 
 
