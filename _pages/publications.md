@@ -10,14 +10,11 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 ### Peer-reviewed journal papers and books
 
-> Submitted
-
-[21] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (In Review) 
-
-
-
-
 > 2025
+
+
+[21] **L. Wang**, S. Warix, R. Callahan, P. Sullivan, K. Singha, Data-model integration to unravel critical zone dynamics: challenges, successes, and future directions, WIREs Water (Accepted) 
+
 
 [20] **L. Wang**, Z. Xu, C. Wang, R. Thibaut, C. Ulrich, M. Sprenger, S. Uhlemann, Y. Wu, E. King, H. Wainwright,  R. W. H. Carroll, C. Beutler, K. H. Williams, B. Dafflon, [The Role of Snowmelt and Subsurface Heterogeneity in Headwater Hydrology of a Mountainous Catchment in Colorado: A Model-Data Integration Approach](https://doi.org/10.1029/2025WR040651), Water Resources Research, 2025
 
