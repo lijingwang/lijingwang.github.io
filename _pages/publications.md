@@ -10,6 +10,10 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 ### Peer-reviewed journal papers and books
 
+> 2026
+
+[22] M. Field, E.J. MacKie, **L. Wang**, A. Muto, N. Shao, [Improved Bathymetry Estimates Beneath Amundsen Sea Ice Shelves using a Markov Chain Monte Carlo Gravity Inversion (GravMCMC, version 1)](https://gmd.copernicus.org/articles/19/1749/2026/), Geoscientific Model Development, 2026
+
 > 2025
 
 
