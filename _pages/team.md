@@ -41,15 +41,28 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-around; text-align: center;">
     <div>
-        <h3><a href="/amber-caruso/">Amber Caruso</a></h3>
-        <a href="/amber-caruso/">
-            <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Amber_2025.jpeg" alt="Amber Caruso" width="200"/>
+        <h3><a href="/emily-rochette/">Emily Rochette</a></h3>
+        <a href="/emily-rochette/">
+            <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Emily_Rochette_2026.jpeg" alt="Emily Rochette" width="200"/>
         </a>
     </div>
     <div>
         <h3><a href="/jacob-gorman/">Jacob Gorman</a></h3>
         <a href="/jacob-gorman/">
             <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Jacob_2025.jpeg" alt="Jacob Gorman" width="200"/>
+        </a>
+    </div>
+</div>
+
+---
+
+# Alumni and Previous Research Group Members
+
+<div style="display: flex; justify-content: space-around; text-align: center;">
+    <div>
+        <h3><a href="/amber-caruso/">Amber Caruso</a></h3>
+        <a href="/amber-caruso/">
+            <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Amber_2025.jpeg" alt="Amber Caruso" width="200"/>
         </a>
     </div>
 </div>
