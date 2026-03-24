@@ -11,6 +11,8 @@ redirect_from:
 I'm Lijing, an assistant professor in the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut, focusing on understanding groundwater-surface water interactions under climate and natural disturbances. If you are interested in working with me, please feel free to email me any time. 
 
 
+[Download CV](https://lijingwang.github.io/files/Lijing_CV_Mar04_2026.pdf)
+
 ### Education
 - Ph.D.: Geological Sciences at Stanford University, minor in Computer Science (2023)
 - B.S.: Space Physics and Applied Mathematics at Peking University (2017)
