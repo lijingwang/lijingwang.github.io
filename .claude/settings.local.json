@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:people.mines.edu)",
+      "Bash(curl -s \"https://people.mines.edu/ksingha/people/\")"
+    ]
+  }
+}
