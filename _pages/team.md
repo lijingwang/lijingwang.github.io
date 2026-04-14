@@ -57,6 +57,10 @@ redirect_from:
 
 ---
 
+# Alumni and Previous Research Group Members
+
+---
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
   <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Jacob_2025.jpeg" alt="Jacob Gorman" width="180" style="flex-shrink: 0;"/>
   <div>
@@ -66,10 +70,6 @@ redirect_from:
     <p>I am a junior currently pursuing a dual degree in Earth Sciences (B.S.) and Computer Science with a concentration in Computational Data Analytics. I'm interested in hydrology, statistics, and data visualization. I love Olivia Rodrigo and knitting!</p>
   </div>
 </div>
-
----
-
-# Alumni and Previous Research Group Members
 
 ---
 
