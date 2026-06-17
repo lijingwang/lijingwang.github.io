@@ -12,6 +12,10 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 > 2026
 
+$^{\#}$ Student author or mentee
+
+[23] B. Zhang$^{\#}$, Z. Yin, K. Gu, J. Caers, P. Bayer, B. Shi, X. Gong, **L. Wang**, [Probabilistic Characterization of City Scale Subsurface Thermal Environment Heterogeneity](https://doi.org/10.1021/acs.est.5c17385), Environmental Science \& Technology, 2026
+
 [22] M. Field, E.J. MacKie, **L. Wang**, A. Muto, N. Shao, [Improved Bathymetry Estimates Beneath Amundsen Sea Ice Shelves using a Markov Chain Monte Carlo Gravity Inversion (GravMCMC, version 1)](https://gmd.copernicus.org/articles/19/1749/2026/), Geoscientific Model Development, 2026
 
 > 2025
