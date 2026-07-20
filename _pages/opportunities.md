@@ -5,6 +5,12 @@ permalink: /opportunities/
 author_profile: true
 ---
 
+I am recruiting one PhD student for Spring or Fall 2027. If you are interested in understanding baseflow resilience in groundwater-surface water interactions, we have a new project starting Fall 2026, working with [USGS NGWOS]() to predict baseflow across the Delaware River Basin. The project develops process-based hydrologic models (using the Advanced Terrestrial Simulator) for three headwater catchments with contrasting hydrogeologic settings, combined with machine learning surrogate modeling to scale predictions across gauged and ungauged headwater streams, co-mentored with Dr. Martin Briggs at the USGS Hydrologic Remote Sensing Branch. A strong background in groundwater modeling (e.g., MODFLOW, ATS) is require
+
+
+-------------
+
+Fall 2026 applications are closed. 
 
 I am planning to recruit one master student for Fall 2026. If you are interested in groundwater-surface water interactions, and have experience/are willing to learn Python, hydrologic modeling and machine learning methods, please reach out! 
 
