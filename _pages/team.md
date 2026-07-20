@@ -12,6 +12,20 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
+  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Noah_Cadwell_2026.png" alt="Noah Cadwell" width="180" style="flex-shrink: 0;"/>
+  <div>
+    <h3 style="margin-top: 0;">Noah Cadwell</h3>
+    <p><em>M.S. Student, 2026 –</em><br/>
+    noah.cadwell@uconn.edu &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/noah-cadwell-67b538218/">LinkedIn</a></p>
+    <p><strong>Education</strong><br/>
+    B.S.: Geological Sciences, University of Missouri - Columbia (2023)</p>
+    <p>My M.S. research will focus on groundwater-surface water interactions in watersheds with beaver dams or beaver dam analogs. I will create numerical models to study water transport and water balance, integrating field observations from monitoring sites in Colorado. After my undergraduate degree, I worked as an intern for USGS and a hydrologist for a state geological survey, but I wanted to pursue a master's degree to improve my research and science communication skills. In my free time, I enjoy all sorts of tabletop games, video games, and hiking.</p>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
   <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Yeonju_Kim_2024.jpg" alt="Yeonju Kim" width="180" style="flex-shrink: 0;"/>
   <div>
     <h3 style="margin-top: 0;">Yeonju Kim</h3>
