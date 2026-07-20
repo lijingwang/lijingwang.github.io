@@ -5,27 +5,56 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I am recruiting one PhD student for Spring or Fall 2027. If you are interested in understanding baseflow resilience in groundwater-surface water interactions, we have a new project starting Fall 2026, working with [USGS NGWOS]() to predict baseflow across the Delaware River Basin. The project develops process-based hydrologic models (using the Advanced Terrestrial Simulator) for three headwater catchments with contrasting hydrogeologic settings, combined with machine learning surrogate modeling to scale predictions across gauged and ungauged headwater streams, co-mentored with Dr. Martin Briggs at the USGS Hydrologic Remote Sensing Branch. A strong background in groundwater modeling (e.g., MODFLOW, ATS) is require
+I am recruiting one PhD student for Spring or Fall 2027. If you are interested in understanding baseflow resilience and groundwater-surface water interactions under climate disturbances, we have a new project starting Fall 2026, working with [USGS NGWOS](https://www.usgs.gov/mission-areas/water-resources/science/next-generation-water-observing-system-ngwos) to predict baseflow across the Delaware River Basin. You will be co-mentored by Dr. Martin Briggs at the USGS Hydrologic Remote Sensing Branch. A strong background in groundwater modeling (e.g., MODFLOW, ATS) is required. If you are interested, please send me an email first (lijing.wang AT uconn.edu) with your up-to-date CV and your research experience/interest/plan, so we can learn if there is a good fit before you apply.
+
+### Desired qualifications for this position
+
+- A strong background in groundwater modeling, including hands-on experience with tools such as MODFLOW, ATS (Advanced Terrestrial Simulator), or similar process-based hydrologic modeling software.
+- Experience in scientific programming (e.g., Python, Matlab, R, Julia).
+- Experience with machine learning, Bayesian statistics, geostatistics, or field work in geophysics/hydrology is a plus, but not required.
+
+<figure>
+   <img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
+   <figcaption>UConn Wilbur Cross Building in Winter 2023</figcaption>
+</figure>
+
+### How to Apply
+
+Graduate students in UConn Earth Sciences will receive funding through research and teaching assistantships. Students will receive continuous stipend support with the possibility of additional summer funding. Admission also includes tuition waiver, health insurance benefits, and funding for research related travel. We strongly encourage students from underrepresented groups in earth sciences to apply. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/).
+
+Please apply through the [UConn Graduate School Website](https://grad.uconn.edu/admissions/apply-to-uconn/) by clicking *Apply Now*, and put my name as the primary or secondary advisor in your personal essay. Please also send me an email (lijing.wang AT uconn.edu) with your up-to-date CV and research interest/plan once you have submitted the application, or ideally before, so we can learn if there is a good fit.
+
+There will be Geology or Geophysics concentration listed in the application system. When you get the degree, this concentration name will be listed. However, you can always change the concentration after you join our department.
+
+**Key Components**
+
+1. The formal application form provided by the Graduate School, together with the application fee. In some circumstances, your application fee may be waived. Please refer to the UConn Graduate School [Fee Waiver Policy](https://grad.uconn.edu/admissions/application-fee-waivers/).
+
+2. Official transcripts from undergraduate and graduate institutions you have attended.
+
+3. Three letters of reference.
+
+4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, which faculty you might want to work with.
+
+5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/). GRE is NOT required.
 
 
 -------------
 
-Fall 2026 applications are closed. 
+### Past opportunities (applications closed)
 
-I am planning to recruit one master student for Fall 2026. If you are interested in groundwater-surface water interactions, and have experience/are willing to learn Python, hydrologic modeling and machine learning methods, please reach out! 
+Fall 2026 applications are closed.
+
+I was planning to recruit one master student for Fall 2026. If you are interested in groundwater-surface water interactions, and have experience/are willing to learn Python, hydrologic modeling and machine learning methods, please reach out!
 
 
 -------------
 
-Fall 2024 applications are closed. 
-
-
-
-### Fall 2024 opportunities: 
+Fall 2024 applications are closed.
 
 If you are interested in water, climate and artificial intelligence (AI) in general, particularly in any of the following areas:
 
-1) Machine learning and artificial intelligence (AI) for decision making in water systems 
+1) Machine learning and artificial intelligence (AI) for decision making in water systems
 
 2) Integrating in-situ and geophysical datasets for hydrogeology
 
@@ -33,53 +62,15 @@ If you are interested in water, climate and artificial intelligence (AI) in gene
 
 4) Advanced hydrologic modeling: flow or reactive transport modeling
 
-please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research interest/plan. Preliminary contact is preferred before the application deadline (**January 10th, 2024**) so that we can learn if there is a good fit. Detailed information about the UConn Earth Sciences graduate program can be found [here](https://earthsciences.uconn.edu/graduateprogram/). 
+please feel free to reach out to me directly: lijing.wang AT uconn.edu, with your up-to-date CV and your research interest/plan.
 
-<!-- ### Virtual Open House for UConn Earth Sciences Graduate Studies, Dec 18, 2023
-
-[Virtual Meeting Link](https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=mc47eb331dcfb0612b45737b2db6ee8ab), hosted by Professor William Ouimet 
-
-Monday, December 18, 2023 9:30 AM | 2 hours 30 minutes | (UTC-05:00) Eastern Time (US & Canada)
-
-Meeting number: 2632 150 4839, Password: Xy6qMijXc95
-
-This is Virtual Earth Sciences Graduate Admissions Open House. We have 15 **admission fee waivers** that will be distributed in associated with the event.  The only way to be eligible for a waiver is to attend the event. Open House starts at 9:30 am. Program overview will begin at 10 am.  -->
-
-
-### Desired qualifications
+### General desired qualifications
 
 - M.S. or B.S. degrees in earth sciences, hydrology, hydrogeology, environmental science, geology, geophysics, environmental engineering, climate science, data science, or other related fields.
 - Experience in scientific programming (e.g., Python, Matlab, R, Julia).
-- Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field work in geophysics/hydrology is highly desirable. 
+- Experience in machine learning, hydrologic modeling (e.g., MODFLOW, ATS-Amanzi, ParFlow), Bayesian statistics (e.g., Bayes' Rule, Markov chain Monte Carlo), geostatistics, or field work in geophysics/hydrology is highly desirable.
 
-However, technical skills and publications are not required to join the group as graduate students. Curiosity, communication and perseverance are the keys to success. 
-
-<figure>
-   <img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
-   <figcaption>UConn Wilbur Cross Building in Winter 2023</figcaption>
-</figure>
-
-
-### How to Apply
-
-Graduate students in UConn Earth Sciences will receive funding through research and teaching assistantships. To be considered for full funding for admission in Fall 2024, please apply through the [UConn Graduate School Website](https://grad.uconn.edu/admissions/apply-to-uconn/) by clicking *Apply Now* before January 10th, 2024. Students will receive continuous stipend support starting at ~$27,000 per 9-months with the possibility of additional summer funding. Admission also includes tuition waiver, health insurance benefits, and funding for research related travel. We strongly encourage students from underrepresented groups in earth sciences to apply. 
-
-Note that you might not be able to find me in the application system as your suggested advisor because I will join in Fall 2024. Don't worry, please put your interested advisor(s) in your personal essay and send me an email (lijing.wang AT uconn.edu) once you have submitted the application. Thank you! You can also include my name as the primary or secondary advisor.
-
-There will be Geology or Geophysics concentration listed in the application system. When you get the degree, this concentration name will be listed. However, you can always change the concentration after you join our department. 
-
-**Key Components**
-
-1. The formal application form provided by the Graduate School, together with the application fee. In some circumstances, your application fee may be waived. Please refer to the UConn Graduate School [Fee Waiver Policy](https://grad.uconn.edu/admissions/application-fee-waivers/). 
-
-2. Official transcripts from undergraduate and graduate institutions you have attended. 
-
-3. Three letters of reference. 
-
-4. Your personal essay (~2 pages). This may include your research interests, your previous achievement, your motivation for Ph.D. study, which faculty you might want to work with. 
-
-5. If English is not your primary language, you may be required to submit evidence of your proficiency in the English language. TOEFL, IELTS, PTE or Duolingo scores are [accepted](https://grad.uconn.edu/admissions/requirements/). GRE is NOT required. 
-
+However, technical skills and publications are not required to join the group as graduate students. Curiosity, communication and perseverance are the keys to success.
 
 ### Useful links
 
@@ -92,12 +83,3 @@ There will be Geology or Geophysics concentration listed in the application syst
 [University of Connecticut](https://uconn.edu/) (UConn), Connecticut's flagship university, proudly holds the **#58** ranking in the 2024 Best National University Rankings by US News. Our main campus, nestled in the rural, forested, and rolling highlands of Mansfield, Connecticut, offers an idyllic setting for learning and growth. Situated in the heart of the Northeast, halfway between Boston (a 1.5-hour drive) and New York City (a 2.5-hour drive), we find ourselves in the charming New England town of Storrs, known for its picturesque autumn scenery.
 
 At UConn Earth Sciences, we delve into a multitude of Earth Sciences disciplines, including geophysics, hydrology, climate change, geomorphology, and paleontology. To explore more about our department, please visit [our website](https://earthsciences.uconn.edu/).
-
-<!---
-1. Fellowship
-2. UConn information
--->
-
-
-
-
