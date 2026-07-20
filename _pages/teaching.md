@@ -7,9 +7,15 @@ author_profile: true
 
 # Teaching
 
-- ERTH 4735/5735 NRE 4135 Introduction to Groundwater Hydrology (Fall 2024, Fall 2025)
+- ERTH 4735/5735 NRE 4135 Introduction to Groundwater Hydrology (Fall 2024, Fall 2025, Fall 2026)
 
 - ERTH 4750/5750 Machine Learning and Numerical Modeling in Hydrology (Spring 2026)
+
+We covered lumped and distributed process-based models and machine learning methods for hydrologic predictions. You can refer to some of our course materials listed in Github: 
+- [hbvpy](https://github.com/lijingwang/hbvpy) — A Python implementation of the HBV conceptual (lumped) hydrologic model, with calibration, uncertainty propagation, and sensitivity analysis notebooks
+- [UConn_MODFLOW_Lab](https://github.com/lijingwang/UConn_MODFLOW_Lab) — A progressive series of notebooks building a data-driven MODFLOW 6 (distributed) groundwater model, from raw data through steady-state and transient simulation
+- [Machine_Learning_Hydrology](https://github.com/lijingwang/Machine_Learning_Hydrology) — Machine learning methods for hydrologic prediction, including MLP, SHAP, LSTM, and CNN notebooks on tabular and image-based streamflow data
+
 
 - [Data Science for the Geosciences, Cambridge University Press, 2023](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4#overview)
 	- An accessible textbook providing data science foundations to address earth science questions using real-world case studies.
