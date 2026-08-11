@@ -12,6 +12,20 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
+  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Alaina_Foster_2026.jpg" alt="Alaina Foster" width="180" style="flex-shrink: 0;"/>
+  <div>
+    <h3 style="margin-top: 0;">Alaina Foster</h3>
+    <p><em>M.S. Student, 2026 –</em><br/>
+    alaina.foster@uconn.edu &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/akfos/">LinkedIn</a></p>
+    <p><strong>Education</strong><br/>
+    B.A.: Geosciences, Computer Science minor, Wellesley College (2024)</p>
+    <p>I am pursuing my M.S. in Geological Sciences and studying baseflow resilience in headwater streams in the Delaware River Basin. Before UConn, I worked on a project at the University of Toledo focusing on geophysical characterization and soil-water interactions in the Western Lake Erie Basin. I enjoy reading, hiking, and playing with my dog in my free time.</p>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
   <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Noah_Cadwell_2026.png" alt="Noah Cadwell" width="180" style="flex-shrink: 0;"/>
   <div>
     <h3 style="margin-top: 0;">Noah Cadwell</h3>
