@@ -11,7 +11,7 @@ redirect_from:
 I'm Lijing, an assistant professor in the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut, focusing on understanding groundwater-surface water interactions under climate and natural disturbances. If you are interested in working with me, please feel free to email me any time. 
 
 
-[CV](https://lijingwang.github.io/files/Lijing_CV_Sep2_2026.pdf)
+[CV](https://lijingwang.github.io/files/Lijing_CV_Sep02_2026.pdf)
 
 ### Education
 - Ph.D.: Geological Sciences at Stanford University, minor in Computer Science (2023)
@@ -23,7 +23,7 @@ I'm Lijing, an assistant professor in the [Department of Earth Sciences](https:/
 </figure>
 
 ### An overview of my research and teaching
-I am a geostatistician and hydrogeologist specializing in integrating process-based hydrologic modeling, machine learning methods, and multiscale datasets (e.g., geophysical surveys and in-situ hydrologic measurements) to understand groundwater-surface water interactions under climate and natural disturbances. Specifically, I am interested in the role of groundwater in sustaining mountain streams and thereby improving streamflow predictions. I am also interested in river restoration approaches such as beaver dams and beaver dam analogs, particularly in how they alter the water balance in southern New England and the western United States. I also develop machine learning and Bayesian inference methods to calibrate hydrologic models and quantify their uncertainty. Additionally, I’m committed to teaching data science to geoscientists, showcased in our new textbook, “**[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)**,” published by Cambridge University Press. 
+I am a geostatistician by training and hydrogeologist specializing in integrating process-based hydrologic modeling, machine learning methods, and multiscale datasets (e.g., geophysical surveys and in-situ hydrologic measurements) to understand groundwater-surface water interactions under climate and natural disturbances. Specifically, I am interested in the role of groundwater in sustaining headwaters and thereby improving streamflow dynamics predictions. I am also interested in river restoration approaches such as beaver dams and beaver dam analogs, particularly in how they alter the water balance in southern New England and the western United States. I also develop machine learning (ML) and Bayesian inference methods to calibrate process-based hydrologic models, accelerate them by physics-informed ML surrogates, and quantify their uncertainty. Additionally, I’m committed to teaching data science to geoscientists, showcased in our new textbook, “**[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)**,” published by Cambridge University Press. 
 
 
 
