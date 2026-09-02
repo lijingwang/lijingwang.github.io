@@ -89,24 +89,12 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
-  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Jacob_2025.jpeg" alt="Jacob Gorman" width="180" style="flex-shrink: 0;"/>
-  <div>
-    <h3 style="margin-top: 0;">Jacob Gorman (they/them)</h3>
-    <p><em>Undergraduate Student, Earth Sciences &amp; Computer Science</em><br/>
-    jacob.gorman@uconn.edu</p>
-    <p>I am a junior currently pursuing a dual degree in Earth Sciences (B.S.) and Computer Science with a concentration in Computational Data Analytics. I'm interested in hydrology, statistics, and data visualization. I love Olivia Rodrigo and knitting!</p>
-  </div>
+<div style="margin-bottom: 1em;">
+  <h3 style="margin-top: 0; margin-bottom: 0.2em;">Jacob Gorman (they/them)</h3>
+  <p><em>Undergraduate Student, Earth Sciences &amp; Computer Science</em></p>
 </div>
 
----
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
-  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Amber_2025.jpeg" alt="Amber Caruso" width="180" style="flex-shrink: 0;"/>
-  <div>
-    <h3 style="margin-top: 0;">Amber Caruso</h3>
-    <p><em>Undergraduate Student, Environmental Engineering</em><br/>
-    amber.caruso@uconn.edu</p>
-    <p>Hello, I'm Amber, and I am an Undergraduate Researcher in the Earth Sciences Department. I'm a junior studying Environmental Engineering and an Alum from the EcoHouse Learning Community as a Floor Mentor and an Alum from the Office of Sustainability as a Sustainable Outreach Coordinator. I am interested in hydrology, hydrogeology, groundwater systems, and environmental modelling. I am a member of FFFU, Outing Club, Beekeeping Club, and the American Academy of Environmental Engineering and Sciences (AAEES). In my free time, I enjoy reading and crocheting.</p>
-  </div>
+<div style="margin-bottom: 1em;">
+  <h3 style="margin-top: 0; margin-bottom: 0.2em;">Amber Caruso</h3>
+  <p><em>Undergraduate Student, Environmental Engineering</em></p>
 </div>
