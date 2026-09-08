@@ -85,6 +85,18 @@ redirect_from:
 
 ---
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
+  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Addison_Meisterling_2026.jpeg" alt="Addison Meisterling" width="180" style="flex-shrink: 0;"/>
+  <div>
+    <h3 style="margin-top: 0;">Addison Meisterling</h3>
+    <p><em>Undergraduate Student, Environmental Science</em><br/>
+    addison.meisterling@uconn.edu &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/addison-meisterling-138477341/">LinkedIn</a></p>
+    <p>I am a junior pursuing my B.S. in Environmental Science with a concentration in Global Change and a minor in Environmental Economics and Policy. My interests include environmental law and policy, hydrological processes, and the role geography plays in climate change. Outside of academics, I enjoy spending time outdoors and creating art.</p>
+  </div>
+</div>
+
+---
+
 # Alumni and Previous Research Group Members
 
 ---
