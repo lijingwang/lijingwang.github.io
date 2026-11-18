@@ -14,6 +14,8 @@ Note: PDF reprints are provided below within the context of [fair use](https://w
 
 <sup>#</sup> Student author or mentee
 
+[24] M.B. Alivio, K. Potočki, P. Raška, P.A. Adegede, T.M. Adyel, H. Aksoy, M. Bourke, Y. Cavus, M.M. de Brito, M. Dembélé, A.M. Elmoustafa, K. Förster, S. Han, B.C. Howard, H. Jia, S. Kohnova, G. Koren, T.M. Nunes Carvalho, A. Ochoa-Sánchez, R. Ouachani, D. Pavlović, J. Relf, C.S. Santos Ferreira, K. Schmitz, T. Thaler, A. Todorović, C. Wang, **L. Wang**, S. Wang, F.Z. Yao, R. Yonaba, J. Yoon, N. Bezak, [Global perspectives on the curricular integration of nature-based solutions in hydrology and water resources management education](https://doi.org/10.1016/j.jclepro.2026.149303), Journal of Cleaner Production, 575, 2026
+
 [23] B. Zhang<sup>#</sup>, Z. Yin, K. Gu, J. Caers, P. Bayer, B. Shi, X. Gong, **L. Wang**, [Probabilistic Characterization of City Scale Subsurface Thermal Environment Heterogeneity](https://doi.org/10.1021/acs.est.5c17385), Environmental Science & Technology, 2026
 
 [22] M. Field, E.J. MacKie, **L. Wang**, A. Muto, N. Shao, [Improved Bathymetry Estimates Beneath Amundsen Sea Ice Shelves using a Markov Chain Monte Carlo Gravity Inversion (GravMCMC, version 1)](https://gmd.copernicus.org/articles/19/1749/2026/), Geoscientific Model Development, 2026
