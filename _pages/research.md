@@ -8,7 +8,7 @@ author_profile: true
 ## Research method: Model-data integration in hydrology
 
 <div style="text-align: center;">
-  <figure style="max-width: 500px; margin-left: auto; margin-right: auto;">
+  <figure style="max-width: 800px; margin-left: auto; margin-right: auto;">
     <img src="/images/model_data.png" alt="model_data">
     <figcaption>A loop of model-data integration for hydrology, including model calibration and model-informed data collection.</figcaption>
     <p>
