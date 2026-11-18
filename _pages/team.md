@@ -74,18 +74,6 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
-  <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Emily_Rochette_2026.jpeg" alt="Emily Rochette" width="180" style="flex-shrink: 0;"/>
-  <div>
-    <h3 style="margin-top: 0;">Emily Rochette (she/her)</h3>
-    <p><em>Undergraduate Student, Earth Sciences</em><br/>
-    emily.rochette@uconn.edu</p>
-    <p>I am a senior pursuing my B.S. in Geoscience and am enrolled in the Accelerated Master's program for Earth and Environmental Sciences. My academic interests focus on groundwater to surface water interactions and temperature variability. I also have professional experience in wildlife conservation, herpetology, paleontology, and environmental education. In my free time, I enjoy outdoor activities such as hiking, gardening, and skiing.</p>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em; gap: 1.5em;">
   <img src="https://raw.githubusercontent.com/lijingwang/lijingwang.github.io/master/images/Addison_Meisterling_2026.jpeg" alt="Addison Meisterling" width="180" style="flex-shrink: 0;"/>
   <div>
     <h3 style="margin-top: 0;">Addison Meisterling</h3>
@@ -102,11 +90,16 @@ redirect_from:
 ---
 
 <div style="margin-bottom: 1em;">
+  <h3 style="margin-top: 0; margin-bottom: 0.2em;">Emily Rochette (she/her)</h3>
+  <p><em>Undergraduate Student, Earth Sciences, 2025 - 2026</em></p>
+</div>
+
+<div style="margin-bottom: 1em;">
   <h3 style="margin-top: 0; margin-bottom: 0.2em;">Jacob Gorman (they/them)</h3>
-  <p><em>Undergraduate Student, Earth Sciences &amp; Computer Science</em></p>
+  <p><em>Undergraduate Student, Earth Sciences &amp; Computer Science, 2025</em></p>
 </div>
 
 <div style="margin-bottom: 1em;">
   <h3 style="margin-top: 0; margin-bottom: 0.2em;">Amber Caruso</h3>
-  <p><em>Undergraduate Student, Environmental Engineering</em></p>
+  <p><em>Undergraduate Student, Environmental Engineering, 2025</em></p>
 </div>
