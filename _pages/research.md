@@ -5,27 +5,41 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research: Model-data integration in hydrology
+## Research method: Model-data integration in hydrology
 
 <div style="text-align: center;">
   <figure style="max-width: 500px; margin-left: auto; margin-right: auto;">
     <img src="/images/model_data.png" alt="model_data">
     <figcaption>A loop of model-data integration for hydrology, including model calibration and model-informed data collection.</figcaption>
+    <p>
+      Journal paper: <a href="http://dx.doi.org/10.1002/wat2.70040">Wang et al., WIREs Water, 2025</a>
+    </p>
   </figure>
 </div>
+
+## Questions that drive our research
+
+1. **How do gradients in watershed characteristics and climate disturbances jointly control headwater dynamics?** Can we then improve headwater predictions with better models (process-based, machine learning, or hybrid) or new data proxies (e.g., stream temperature, water age)?
+
+2. **How do different river restoration techniques change the water balance, especially groundwater-surface water interactions?** How can hydrologic science then be used to inform the design and evaluate the success of river restoration?
+
 
 ## Current research
 
 
-### Hydrologic connectivity and groundwater recharge in beaver-created ecosystems
-- Study site: UConn Forest, Connecticut; Slate River, Colorado
+### Beaver-created ecosystems as buffers of extreme hydrologic events
+- Study site: UConn Forest, Connecticut; Trail Creek, Colorado; Slate River, Colorado
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
-    <p> 
-      This project investigates how the increasing prevalence of beaver dams alters hydrologic connectivity and groundwater recharge within river corridors. We will combine field observations of stream discharge, groundwater levels, and vertical fluxes up- and down-stream of beaver dams, as well as in nearby stream reaches, with a process-based hydrologic model. The results will improve the evaluation of the cumulative effects of beaver-created ecosystems on groundwater dynamics and comprehensively quantify changes in water quantity and potentially water quality. 
+    <p>
+      <strong>Sponsor:</strong> United States Geological Survey, Water Resources Research Act Program, Annual base (FY26, 104b) <br>
+      <strong>Duration:</strong> 2027–2028<br>
+      <strong>PI:</strong> Lijing Wang (University of Connecticut) <br>
+      <strong>Supported researcher:</strong> Yeonju Kim (Ph.D., 2024 – )
     </p>
     <p>
-      Journal paper: <a href="https://doi.org/10.1029/2024WR039192">Wang et al., Water Resources Research, 2025a</a>
+      <strong>Related journal paper:</strong> <a href="https://doi.org/10.1029/2024WR039192">Wang et al., Water Resources Research, 2025a</a>
     </p>
   </div>
     <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
@@ -35,23 +49,35 @@ author_profile: true
 </div>
 
 
+### Modernizing baseflow prediction in headwater streams using USGS Next Generation Water Observing System data, process-based modeling and machine learning
+- Study site: headwaters within Delaware River Basin
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;">
+  <p>
+    <strong>Sponsor:</strong> United States Geological Survey, Water Resources Research Act Program, National Competitive Grants FY2025 (104g General)<br>
+    <strong>Duration:</strong> 2026–2029<br>
+    <strong>PIs:</strong> Lijing Wang (University of Connecticut), Martin Briggs (USGS Hydrologic Remote Sensing Branch)<br>
+    <strong>Supported researcher:</strong> Alaina Foster (M.S., 2026 – )
+  </p>
+  </div>
+  <div style="width: 50%; margin-top: 20px;">
+    <img src="/images/DRB_headwater_stream.png" alt="Headwater stream in the Delaware River Basin" width="500" style="display: block; margin: 0 auto;">
+    <figcaption>A headwater stream in Biscuit Brook, New York, Summer 2025</figcaption>
+  </div>
+</div>
 
-### Groundwater-surface water interactions under hydrologic extremes
+### Quantifying how groundwater modulates streamflow response to hydrologic extremes
 - Study site: East River, Colorado; Albion Basin, Utah; Sagehen Experimental Forest, California
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="width: 50%; font-size: 16px; text-align: justify; margin-right: 10px;"> <!-- Set width to 40% for text and add margin for spacing -->
-    <p> 
-      This project investigates how groundwater sustains streamflow to hydrologic extremes in mountain watersheds. By integrating field observations of stream discharge, groundwater level and water age with an iteratively calibrated, process-based hydrologic model, the study will assess how subsurface structure and snowmelt heterogeneity shape streamflow magnitude, source, and timing. The results will improve predictions of mountain streamflow under future extreme projections. 
-    </p>
-    <p>
-      Journal paper: <a href="https://doi.org/10.1029/2025WR040651">Wang et al., Water Resources Research, 2025b</a>
-    </p>
     <p>
       <strong>Sponsor:</strong> NSF Water, Landscape, and Critical Zone Processes (WaLCZ)<br>
       <strong>Duration:</strong> 2025–2028<br>
-      <strong>PIs:</strong> Sara Warix (University of Utah), Lijing Wang (University of Connecticut), 
-      Laura Rademacher (University of the Pacific)<br>
+      <strong>PIs:</strong> Sara Warix (University of Utah), Lijing Wang (University of Connecticut), Laura Rademacher (University of the Pacific)<br>
       <strong>Supported researcher:</strong> Victor Oladoja (Ph.D., 2024 – )
+    </p>
+    <p>
+      <strong>Related journal paper:</strong> <a href="https://doi.org/10.1029/2025WR040651">Wang et al., Water Resources Research, 2025b</a>
     </p>
   </div>
     <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
@@ -59,9 +85,6 @@ author_profile: true
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
     </div>
 </div>
-
-
-
 
 ## Previous research 
 ### Surrogate modeling for process-based modeling
