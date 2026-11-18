@@ -62,7 +62,7 @@ author_profile: true
   </div>
   <div style="width: 50%; margin-top: 20px;">
     <img src="/images/DRB_headwater_stream.png" alt="Headwater stream in the Delaware River Basin" width="500" style="display: block; margin: 0 auto;">
-    <figcaption>A headwater stream in Biscuit Brook, New York, Summer 2025</figcaption>
+    <figcaption>A headwater stream in Delaware River Basin: Biscuit Brook, New York, Summer 2025</figcaption>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ author_profile: true
       <strong>Related journal paper:</strong> <a href="https://doi.org/10.1029/2025WR040651">Wang et al., Water Resources Research, 2025b</a>
     </p>
   </div>
-    <div style="width: 50%; margin-top: 50px;"> <!-- Set width to 60% for the figure -->
+    <div style="width: 50%; margin-top: 20px;"> <!-- Set width to 60% for the figure -->
       <img src="/images/ER_watershed_KM.png" alt="UQ_watersheds" width="500" style="display: block; margin: 0 auto;"> <!-- Adjust width for larger figure -->
       <figcaption>The East River Watershed. The site photo is provided by Professor Kate Maher at Stanford University</figcaption>
     </div>
