@@ -5,13 +5,14 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I am recruiting one PhD student for Spring or Fall 2027. If you are interested in understanding baseflow resilience and groundwater-surface water interactions under climate disturbances, we have a new project starting Fall 2026, working with [USGS NGWOS](https://www.usgs.gov/mission-areas/water-resources/science/next-generation-water-observing-system-ngwos) to predict baseflow across the Delaware River Basin. You will be co-mentored by Dr. Martin Briggs at the USGS Hydrologic Remote Sensing Branch. A strong background in groundwater modeling (e.g., MODFLOW, ATS) is required. If you are interested, please send me an email first (lijing.wang AT uconn.edu) with your up-to-date CV and your research experience/interest/plan, so we can learn if there is a good fit before you apply.
+I am recruiting one PhD student for Spring or Fall 2027. If you are interested in understanding baseflow resilience and groundwater-surface water interactions under climate disturbances, we have a new project starting in Fall 2026, working with [USGS Next Generation Water Observing System (NGWOS)](https://www.usgs.gov/mission-areas/water-resources/science/next-generation-water-observing-system-ngwos) to predict baseflow across the Delaware River Basin. You will be co-mentored by Dr. Martin Briggs at the USGS Hydrologic Remote Sensing Branch. 
+
+A strong background in groundwater modeling (e.g., MODFLOW, ATS) is preferred. Experience in field geophysics and hydrology, as well as knowledge of how to process these datasets, would also be great. If you are interested, please send me an email first (lijing.wang AT uconn.edu) with your up-to-date CV and your research experience, interests, and plans, so we can determine whether there is a good fit before you apply.
 
 ### Desired qualifications for this position
-
 - A strong background in groundwater modeling, including hands-on experience with tools such as MODFLOW, ATS (Advanced Terrestrial Simulator), or similar process-based hydrologic modeling software.
-- Experience in scientific programming (e.g., Python, Matlab, R, Julia).
-- Experience with machine learning, Bayesian statistics, geostatistics, or field work in geophysics/hydrology is a plus, but not required.
+- Experience with fieldwork in geophysics and hydrology.
+- Experience in scientific programming (e.g., Python, MATLAB, R, Julia), machine learning, deep learning or Bayesian statistics. 
 
 <figure>
    <img src="/images/UConn_photo.JPG" alt="UConn Wilbur Cross Building">
