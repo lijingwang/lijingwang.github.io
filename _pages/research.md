@@ -21,7 +21,7 @@ author_profile: true
 
 1. **How do gradients in watershed characteristics and climate disturbances jointly control headwater dynamics?** Can we then improve headwater predictions with better models (process-based, machine learning, or hybrid) or new data proxies (e.g., stream temperature, water age)?
 
-2. **How do different river restoration techniques change the water balance, especially groundwater-surface water interactions?** How can hydrologic science then be used to inform the design and evaluate the success of river restoration?
+2. **How do different river restoration techniques change the water balance?** How can hydrologic science then be used to inform the design and evaluate the outcome of river restoration?
 
 
 ## Current research
